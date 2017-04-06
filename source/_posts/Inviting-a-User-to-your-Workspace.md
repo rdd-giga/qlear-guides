@@ -1,5 +1,6 @@
 ---
 title: Inviting-a-User-to-your-Workspace
+categories: Workspace
 ---
 ### If you are the founder of the workspace and you want other person to enter or edit the workspace, you should click there.
 

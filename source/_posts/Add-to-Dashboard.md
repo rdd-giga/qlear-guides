@@ -1,5 +1,6 @@
 ---
 title: Add-to-Dashboard
+categories: Locations
 ---
 You can add a Location to your Dashboard in Location Display.
 

@@ -1,5 +1,6 @@
 ---
 title: FAQ
+categories: Compatible Monitors
 ---
  
 ### 1.Why are some locations locked? 

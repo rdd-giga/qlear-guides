@@ -1,5 +1,6 @@
 ---
 title: Workspace-User-Permissions
+categories: Workspace
 ---
 Workspace User Permissions is where users can set access permissions for users.
 

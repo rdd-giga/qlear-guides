@@ -1,5 +1,6 @@
 ---
 title: Editing-My-Settings
+categories: User Settings
 ---
 On the top right conner, find 'Welcome'. Click on that to display a dropdown with the link 'My Settings'.
 

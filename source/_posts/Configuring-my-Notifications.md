@@ -1,5 +1,6 @@
 ---
 title: Configuring-my-Notifications
+categories: User Settings
 ---
 ## You can configure your Notification
 

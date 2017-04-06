@@ -1,5 +1,6 @@
 ---
 title: Basic-vs.-Pro
+categories: Workspace
 ---
 There are two types of Workspaces in QLEAR: Basic and Pro.
 

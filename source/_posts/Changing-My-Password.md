@@ -1,5 +1,6 @@
 ---
 title: Changing-My-Password
+categories: User Settings
 ---
 LGTM
 

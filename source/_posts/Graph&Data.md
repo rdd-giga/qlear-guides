@@ -1,5 +1,6 @@
 ---
 title: Graph&Data
+categories: Locations
 ---
 # 1.GRAPH
 

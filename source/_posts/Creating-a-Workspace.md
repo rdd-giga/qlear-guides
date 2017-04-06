@@ -1,5 +1,6 @@
 ---
 title: Creating-a-Workspace
+categories: Workspace
 ---
 LGTM
 

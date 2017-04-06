@@ -1,5 +1,6 @@
 ---
 title: Adding-Hardware-to-a-Location
+categories: Hardware
 ---
 ### If a monitor need to be added in one location, you should open this page and click here.  
 

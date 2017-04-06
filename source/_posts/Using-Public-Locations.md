@@ -1,5 +1,6 @@
 ---
 title: Using-Public-Locations
+categories: Getting Started
 ---
 LGTM
 

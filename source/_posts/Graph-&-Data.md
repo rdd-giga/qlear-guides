@@ -1,5 +1,6 @@
 ---
 title: Graph-&-Data
+categories: Hardware
 ---
 The Hardware Graph & Data
 

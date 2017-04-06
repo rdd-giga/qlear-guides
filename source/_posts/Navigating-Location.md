@@ -1,5 +1,6 @@
 ---
 title: Navigating-Location
+categories: Locations
 ---
 ## Click on the bottom right corner button
 

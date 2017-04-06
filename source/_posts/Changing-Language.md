@@ -1,5 +1,6 @@
 ---
 title: Changing-Language
+categories: User Settings
 ---
 LGTM
 

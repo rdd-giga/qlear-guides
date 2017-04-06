@@ -1,5 +1,6 @@
 ---
 title: Editing-My-Profile
+categories: User Settings
 ---
 LGTM
 
