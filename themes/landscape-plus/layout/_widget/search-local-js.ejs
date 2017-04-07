@@ -2,7 +2,7 @@
     var searchFunc = function(path, search_id, content_id) {
         'use strict';
         $.ajax({
-            url: '/' + path,
+            url: path,
             dataType: 'xml',
             success: function( xmlResponse ) {
                 // get the contents from search data
@@ -85,7 +85,8 @@
 
     var inputArea = document.querySelector('#search');
     var getSearchFile = function() {
-        var path = '<%= config.search.path %>';
+        var path = '<%= config.root%><%= config.search.path %>';
+        console.log(path)
         searchFunc(path, 'search', 'local-search-result');
     }
 
