@@ -1,0 +1,17 @@
+<!-- totop start -->
+<%- partial('totop') %>
+<!-- totop end -->
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<% if ((config.fancybox || theme.fancybox)){ %>
+  <%- css('fancybox/jquery.fancybox') %>
+  <%- js('fancybox/jquery.fancybox.pack') %>
+<% } %>
+
+<% if ((config.mathjax || theme.mathjax)){ %>
+<%- partial('mathjax') %>
+<% } %>
+<%- js('js/script') %>
+
+<%- partial('_widget/search-local-js') %>

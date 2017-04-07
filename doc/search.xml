@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[Graph-&-Data]]></title>
+      <url>/Graph-&amp;-Data/</url>
+      <content type="html"><![CDATA[<p>The Hardware Graph &amp; Data</p>
+<p>Includes:</p>
+<ul>
+<li>Graph</li>
+<li>Every Hour</li>
+<li>Raw Data</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> Hardware </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Add-to-Dashboard]]></title>
+      <url>/Add-to-Dashboard/</url>
+      <content type="html"><![CDATA[<p>You can add a Location to your Dashboard in Location Display.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23689853/54f1b3a8-03f8-11e7-9a6c-42552e5dbcec.png" alt=""></p>
+<h2 id="Adding-to-Dashboard"><a href="#Adding-to-Dashboard" class="headerlink" title="Adding to Dashboard"></a>Adding to Dashboard</h2><p>Once you click a thumbnail, you will enter into a Location Display. </p>
+<p>In the Location Display, you can add this to your Dashboard by clicking on the button in the bottom right corner, then selecting “Add to Dashboard”. </p>
+<p>When you click the button ‘Add to Dashboard’ in a location, you will be able to find this location at the Dashboard directly.   </p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24087780/2b1b1226-0d5e-11e7-940d-71c4f9f98d2e.jpg" alt=""></p>
+<p>When you go back to the Dashboard by clicking the back button or the QLEAR logo, you will find the thumbnail of the Location Station you added on the Dashboard.</p>
+<h2 id="Choosing-a-Specific-Station-to-Add-to-the-Dashboard"><a href="#Choosing-a-Specific-Station-to-Add-to-the-Dashboard" class="headerlink" title="Choosing a Specific Station to Add to the Dashboard"></a>Choosing a Specific Station to Add to the Dashboard</h2><p>To add a Location’s Station to the Dashboard, change from Location Average to a Location Station by clicking on the Station Name and switching it to the one you want.</p>
+<h2 id="Removing-from-Dashboard"><a href="#Removing-from-Dashboard" class="headerlink" title="Removing from Dashboard."></a>Removing from Dashboard.</h2><p><img src="https://cloud.githubusercontent.com/assets/26155270/24087811/8f36f63a-0d5e-11e7-9271-a1b87dd8c32a.jpg" alt="">  </p>
+]]></content>
+      
+        <categories>
+            
+            <category> Locations </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Adding-Hardware-to-a-Location]]></title>
+      <url>/Adding-Hardware-to-a-Location/</url>
+      <content type="html"><![CDATA[<h3 id="If-a-monitor-need-to-be-added-in-one-location-you-should-open-this-page-and-click-here"><a href="#If-a-monitor-need-to-be-added-in-one-location-you-should-open-this-page-and-click-here" class="headerlink" title="If a monitor need to be added in one location, you should open this page and click here."></a>If a monitor need to be added in one location, you should open this page and click here.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23785307/0640ec32-05a2-11e7-816f-c0a998009ec5.jpg" alt=""></p>
+<h3 id="Then-you-can-see-this-page-Follow-the-steps"><a href="#Then-you-can-see-this-page-Follow-the-steps" class="headerlink" title="Then you can see this page. Follow the steps."></a>Then you can see this page. Follow the steps.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23785381/705d02cc-05a2-11e7-9c17-701dc629f404.jpg" alt=""></p>
+<h2 id="Now-you-can-add-monitors-in-this-location"><a href="#Now-you-can-add-monitors-in-this-location" class="headerlink" title="Now you can add monitors in this location."></a>Now you can add monitors in this location.</h2>]]></content>
+      
+        <categories>
+            
+            <category> Hardware </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Basic-vs.-Pro]]></title>
+      <url>/Basic-vs.-Pro/</url>
+      <content type="html"><![CDATA[<p>There are two types of Workspaces in QLEAR: Basic and Pro.</p>
+<p>A <strong>Basic Workspace</strong> is free and allows the user to see the data and the basic trends of the data.</p>
+<p>A <strong>Pro Workspace</strong> includes a number of extra features at a small cost per month per data indicator.</p>
+<h2 id="Benefits-of-QLEAR-Pro"><a href="#Benefits-of-QLEAR-Pro" class="headerlink" title="Benefits of QLEAR Pro"></a>Benefits of QLEAR Pro</h2><p>The benefits of QLEAR Pro is …</p>
+<h2 id="How-to-get-QLEAR-Pro"><a href="#How-to-get-QLEAR-Pro" class="headerlink" title="How to get QLEAR Pro"></a>How to get QLEAR Pro</h2><p>To get QLEAR Pro, please contact a QLEAR Administrator at support[at]qlear.build for more details.</p>
+<h2 id="Full-List-of-Features"><a href="#Full-List-of-Features" class="headerlink" title="Full List of Features"></a>Full List of Features</h2><p>Please refer to the full list of features <a href="">here</a>.</p>
+<h2 id="Pricing"><a href="#Pricing" class="headerlink" title="Pricing"></a>Pricing</h2><p>Please refer to pricing <a href="">here</a>.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Workspace </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Changing-Language]]></title>
+      <url>/Changing-Language/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>QLEAR currently supports English and Mandarin 简体中文. To change to your preferred language, please use the following steps:</p>
+<h2 id="1-Change-Language"><a href="#1-Change-Language" class="headerlink" title="1. Change Language"></a>1. Change Language</h2><p>Change Language by clicking on the Language under the “Welcome” dropdown menu in the top right.</p>
+<p>To change to Mandarin 简体中文:</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23845463/493e85b8-0803-11e7-9fc9-0996b254bb9c.jpg" alt=""></p>
+<p>To change to English:</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23845614/27946daa-0804-11e7-8e4a-8cb31591f1d7.jpg" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> User Settings </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Changing-My-Password]]></title>
+      <url>/Changing-My-Password/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>If you want to change your password, please refer to the following steps:</p>
+<h2 id="1-Change-Password"><a href="#1-Change-Password" class="headerlink" title="1. Change Password"></a>1. Change Password</h2><p>You can find the “Change Password” link by clicking on “Welcome” on the top right corner.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23739467/e5308fac-04d9-11e7-9e68-c0ae85c0a899.jpg" alt=""></p>
+<h2 id="2-Save-New-Password"><a href="#2-Save-New-Password" class="headerlink" title="2. Save New Password"></a>2. Save New Password</h2><p>Fill in your Old Password and New Password and you’re all set!</p>
+<hr>
+<h2 id="Forgot-your-Password"><a href="#Forgot-your-Password" class="headerlink" title="Forgot your Password?"></a>Forgot your Password?</h2><p>If you forgot your password, please go <a href="/Forgot-Password">here</a>.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> User Settings </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Configuring-my-Notifications]]></title>
+      <url>/Configuring-my-Notifications/</url>
+      <content type="html"><![CDATA[<h2 id="You-can-configure-your-Notification"><a href="#You-can-configure-your-Notification" class="headerlink" title="You can configure your Notification"></a>You can configure your Notification</h2><h3 id="1-Notification-Frequency"><a href="#1-Notification-Frequency" class="headerlink" title="1.Notification Frequency"></a>1.Notification Frequency</h3><p>In My Setting Page, you would be able to set it. And you will receive email about your monitor data.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23740177/6bd37b20-04dd-11e7-8209-df3068f1552c.jpg" alt=""></p>
+<h3 id="2-Type-of-Notifications"><a href="#2-Type-of-Notifications" class="headerlink" title="2.Type of Notifications"></a>2.Type of Notifications</h3><p>You also can configure the type of Notifications.You should choose one location of yours and click here firstly.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23740386/4ec316a2-04de-11e7-96e9-d5fb5b71e750.jpg" alt=""></p>
+<p>And then you can choose what you want to know.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23740479/bebc4e56-04de-11e7-98f5-c236343177bb.png" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> User Settings </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Creating-a-Location]]></title>
+      <url>/Creating-a-Location/</url>
+      <content type="html"><![CDATA[<h3 id="If-you-want-to-build-a-new-location-you-should-go-to-Dashboard"><a href="#If-you-want-to-build-a-new-location-you-should-go-to-Dashboard" class="headerlink" title="If you want to build a new location, you should go to Dashboard."></a>If you want to build a new location, you should go to Dashboard.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23698949/6039736a-0428-11e7-8f57-3ba19ff5a00d.jpg" alt=""></p>
+<h3 id="And-then-click-on-the-new-location-you-can-edit-the-new-location-on-it"><a href="#And-then-click-on-the-new-location-you-can-edit-the-new-location-on-it" class="headerlink" title="And then click on the new location, you can edit the new location on it."></a>And then click on the new location, you can edit the new location on it.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23699066/ccab8bbe-0428-11e7-9e0f-6a39a263e268.png" alt="">  <img src="https://cloud.githubusercontent.com/assets/26155270/23699105/e8847b20-0428-11e7-8246-3f2acaccfa90.png" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Locations </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Creating-a-Workspace]]></title>
+      <url>/Creating-a-Workspace/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>To create a Workspace, follow the steps below:</p>
+<h2 id="1-Find-the-Button"><a href="#1-Find-the-Button" class="headerlink" title="1. Find the + Button"></a>1. Find the + Button</h2><p>When not in any of the Display pages (i.e. Location Display, Hardware Display), you should see a blue + button on the bottom right corner. Click on the + button and then click “New Workspace”.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23690130/3a048a28-03fa-11e7-8c68-4b9c61b12a6e.jpg" alt=""></p>
+<h2 id="2-Name-your-Workspace"><a href="#2-Name-your-Workspace" class="headerlink" title="2. Name your Workspace"></a>2. Name your Workspace</h2><p>All you need is a name to create a workspace.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23690178/96b99f42-03fa-11e7-848f-fd3d3541838f.png" alt=""></p>
+<h2 id="3-Workspace-Created"><a href="#3-Workspace-Created" class="headerlink" title="3. Workspace Created"></a>3. Workspace Created</h2><p>After you finish create a workspace, you can find it at the left side of page.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23694661/01433a74-0416-11e7-9fec-447764700c2c.jpg" alt=""></p>
+<hr>
+<p>To learn more about what a Workspace is, click <a href="/What-is-a-Workspace%3F">here</a>.</p>
+<p><strong>OR</strong></p>
+<p>To learn how to add a hardware to this workspace, click <a href="/Adding-Hardware-to-QLEAR">here</a>.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Workspace </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Creating-an-Account]]></title>
+      <url>/Creating-an-Account/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<h2 id="Welcome-to-QLEAR"><a href="#Welcome-to-QLEAR" class="headerlink" title="Welcome to QLEAR"></a>Welcome to QLEAR</h2><p>The first thing you need to do before being able to access QLEAR’s features is to create an account on QLEAR. Just follow the quick and easy steps below:</p>
+<h2 id="1-Go-to-the-Sign-In-Page"><a href="#1-Go-to-the-Sign-In-Page" class="headerlink" title="1. Go to the Sign In Page"></a>1. Go to the Sign In Page</h2><p>When you go to <a href="https://www.qlear.build" target="_blank" rel="external">QLEAR</a>, you will find the “Sign In” link on the top right corner of the page.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23734266/ee973d8c-04b8-11e7-829c-29903b46be04.jpg" alt=""></p>
+<h2 id="2-Go-to-the-Sign-Up-Page"><a href="#2-Go-to-the-Sign-Up-Page" class="headerlink" title="2. Go to the Sign Up Page"></a>2. Go to the Sign Up Page</h2><p>Find the “Sign Up” link under the “Sign In” Button and click on that.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23734301/359c8728-04b9-11e7-9ce7-65bfc32c9688.jpg" alt=""></p>
+<h2 id="3-Create-your-Account"><a href="#3-Create-your-Account" class="headerlink" title="3. Create your Account"></a>3. Create your Account</h2><p>The last step to fill in your user information and then click “Create User”.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23734330/6bd59424-04b9-11e7-8bf8-bfe5455b926e.jpg" alt=""></p>
+<hr>
+<p>When you’re done Creating an Account, you can now <a href="/How-to-Sign-In">Sign In</a>.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Getting Started </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Data-API]]></title>
+      <url>/Data-API/</url>
+      <content type="html"><![CDATA[<p>For data access, we also have a basic API, available for Pro Workspaces.</p>
+<p>There are currently two available APIs:</p>
+<ol>
+<li>API Request for Monitors</li>
+<li>API Request for Latest Monitor Data</li>
+</ol>
+<h2 id="API-Access-URLs"><a href="#API-Access-URLs" class="headerlink" title="API Access URLs"></a>API Access URLs</h2><p>Learn about QLEAR’s API via the following URL:<br><code>https://api-sandbox.qlear.build/</code></p>
+<p>When officially pulling data, please use the following URL:<br><code>https://api.qlear.build/</code></p>
+<p>These two will always be the same in terms of API, except t</p>
+<h2 id="1-设备列表-API-Request-for-Monitors"><a href="#1-设备列表-API-Request-for-Monitors" class="headerlink" title="1. 设备列表 API Request for Monitors"></a>1. 设备列表 API Request for Monitors</h2><h4 id="接口-Interface"><a href="#接口-Interface" class="headerlink" title="接口 Interface"></a>接口 Interface</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">GET /v1/monitors</div></pre></td></tr></table></figure>
+<h4 id="参数-API-Parameters"><a href="#参数-API-Parameters" class="headerlink" title="参数 API Parameters"></a>参数 API Parameters</h4><table>
+<thead>
+<tr>
+<th>参数 Parameters</th>
+<th>说明 Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>token</td>
+<td>Access Token. 如果没有请向 RESET 索取</td>
+<td>Please request this from us if you do not have one already.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="举例-Example"><a href="#举例-Example" class="headerlink" title="举例 Example"></a>举例 Example</h4><blockquote>
+<p>GET /v1/monitors?token=6711d819-61bb-4342-9ae3-17c8a477629b</p>
+</blockquote>
+<h4 id="返回-Returns"><a href="#返回-Returns" class="headerlink" title="返回 Returns"></a>返回 Returns</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line">[</div><div class="line">  &#123;</div><div class="line">    identifier: &quot;ACCF232C468E&quot;,</div><div class="line">    label: &quot;Indoor&quot;,</div><div class="line">    last_received_at: &quot;2015-05-26 15:04:48 +0800&quot;,</div><div class="line">    status: 1</div><div class="line">  &#125;,</div><div class="line">  &#123;</div><div class="line">    identifier: &quot;30219&quot;,</div><div class="line">    label: &quot;E410&quot;,</div><div class="line">    last_received_at: &quot;2015-05-26 15:04:48 +0800&quot;,</div><div class="line">    status: 1</div><div class="line">  &#125;,</div><div class="line">  &#123;</div><div class="line">    identifier: &quot;us-embassy-hyderabad&quot;,</div><div class="line">    label: &quot;US Embassy Hyderabad&quot;,</div><div class="line">    last_received_at: &quot;2015-05-26 15:04:48 +0800&quot;,</div><div class="line">    status: 1</div><div class="line">  &#125;</div><div class="line">]</div></pre></td></tr></table></figure>
+<ul>
+<li>identifier 设备唯一识别号，可用于后续查询 Default ID of the Monitor</li>
+<li>label 自定义名称 A label for the monitor that you can set on the Dashboard</li>
+<li>last_received_at 最后接受数据时间 Last received data from the monitor</li>
+<li>status 状态，1 可用，0 暂停使用 1 means it’s working, 0 means it is not</li>
+</ul>
+<h2 id="2-设备数据-API-Request-for-Latest-Monitor-Data"><a href="#2-设备数据-API-Request-for-Latest-Monitor-Data" class="headerlink" title="2. 设备数据 API Request for Latest Monitor Data"></a>2. 设备数据 API Request for Latest Monitor Data</h2><h4 id="接口-Interface-1"><a href="#接口-Interface-1" class="headerlink" title="接口 Interface"></a>接口 Interface</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">GET /v1/monitors/latest</div></pre></td></tr></table></figure>
+<h4 id="参数-API-Parameters-1"><a href="#参数-API-Parameters-1" class="headerlink" title="参数 API Parameters"></a>参数 API Parameters</h4><table>
+<thead>
+<tr>
+<th>参数 Parameters</th>
+<th>说明 Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>token</td>
+<td>Access Token. 如果没有请向 RESET 索取 Please request this from us if you do not have one already.</td>
+</tr>
+<tr>
+<td>device_identifier</td>
+<td>设备唯一标识，即上诉接口返回的identifier Use the identifier from API Request for Monitor</td>
+</tr>
+</tbody>
+</table>
+<h4 id="举例-Example-1"><a href="#举例-Example-1" class="headerlink" title="举例 Example"></a>举例 Example</h4><blockquote>
+<p>GET /v1/monitors/latest?token=6711d819-61bb-4342-9ae3-17c8a477629b&amp;device_identifier=us-embassy-hyderabad</p>
+</blockquote>
+<h4 id="返回-Return"><a href="#返回-Return" class="headerlink" title="返回 Return"></a>返回 Return</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">[</div><div class="line">  &#123;</div><div class="line">    temperature: null,</div><div class="line">    humidity: null,</div><div class="line">    hcho: null,</div><div class="line">    co: null,</div><div class="line">    co2: null,</div><div class="line">    tvoc: null,</div><div class="line">    pm2p5: 15.7,</div><div class="line">    pm10: null,</div><div class="line">    reading_time: &quot;2015-05-26T11:00:00.000+08:00&quot;,</div><div class="line">    created_at: &quot;2015-05-26T11:59:13.000+08:00&quot;</div><div class="line">  &#125;,</div><div class="line">]</div></pre></td></tr></table></figure>
+<ul>
+<li>temperature</li>
+<li>humidity</li>
+<li>hcho</li>
+<li>co</li>
+<li>co2</li>
+<li>tvoc</li>
+<li>pm2p5</li>
+<li>pm10</li>
+<li>reading_time 设备读取数据时间</li>
+<li>created_at 数据入库时间</li>
+</ul>
+<h3 id="注意事项-What-to-be-careful-of"><a href="#注意事项-What-to-be-careful-of" class="headerlink" title="注意事项 What to be careful of:"></a>注意事项 What to be careful of:</h3><hr>
+<ul>
+<li>所有的请求和响应数据编码皆为<strong>utf-8</strong>格式 everything is expected to be in utf-8</li>
+<li>日期格式统一使用如下样式 2015-05-26 14:36:32 This is the date structure we use</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> Data Access </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Edit-Monitor]]></title>
+      <url>/Edit-Monitor/</url>
+      <content type="html"><![CDATA[<h2 id="Calibration"><a href="#Calibration" class="headerlink" title="Calibration"></a>Calibration</h2><p>In addition to basic Monitor information, you can also control the k-factors of the reporting hardware.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23650606/a64e5b0c-035d-11e7-8358-341b0c8de024.png" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Hardware </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Editing-My-Profile]]></title>
+      <url>/Editing-My-Profile/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>Your Profile contains 3 pieces of basic information for your account:</p>
+<ul>
+<li>Email</li>
+<li>Name</li>
+<li>Mobile Number</li>
+</ul>
+<p>The <strong>Email</strong> is used to send email notifications and is also your QLEAR username.<br>The <strong>Name</strong> allows QLEAR to know what to call you.<br>The <strong>Mobile Number</strong> is something we hope to implement soon, where you will be able to receive notifications via text message.</p>
+<p>If you need to update your profile, follow the following steps:  </p>
+<h2 id="1-Go-to-the-Update-Profile-Page"><a href="#1-Go-to-the-Update-Profile-Page" class="headerlink" title="1. Go to the Update Profile Page"></a>1. Go to the Update Profile Page</h2><p>On the top right corner, find “Welcome”. Click on that to display a dropdown with the link “Update Profile”.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23738706/99440c08-04d5-11e7-8654-abd3f980d4b1.png" alt=""></p>
+<h2 id="2-Update-your-Profile-Now"><a href="#2-Update-your-Profile-Now" class="headerlink" title="2. Update your Profile Now"></a>2. Update your Profile Now</h2><p>Make your edits and then click “Update” to finish updating your profile.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23738910/ab8f54ac-04d6-11e7-8fb7-35f34e436ea7.png" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> User Settings </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Editing-My-Settings]]></title>
+      <url>/Editing-My-Settings/</url>
+      <content type="html"><![CDATA[<p>On the top right conner, find ‘Welcome’. Click on that to display a dropdown with the link ‘My Settings’.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24278523/4c427a74-107f-11e7-85d5-a439b4774252.png" alt=""></p>
+<p>Your settings contains 3 pieces of basic settings for your location.</p>
+<ul>
+<li>PM2.5 Settings  </li>
+<li>Temperature Unit  </li>
+<li>Notification Frequency</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> User Settings </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[FAQ]]></title>
+      <url>/FAQ/</url>
+      <content type="html"><![CDATA[<h3 id="1-Why-are-some-locations-locked"><a href="#1-Why-are-some-locations-locked" class="headerlink" title="1.Why are some locations locked?"></a>1.Why are some locations locked?</h3><p>To protect their info.If someone get the URL of their location, he might enter this location without permission.  </p>
+<h3 id="2-How-can-I-make-my-location-add-to-public-location"><a href="#2-How-can-I-make-my-location-add-to-public-location" class="headerlink" title="2.How can I make my location add to public location?"></a>2.How can I make my location add to public location?</h3><p>Email stanton@giga.build what you want.    </p>
+<h3 id="3-What-kinds-of-data-can-be-seen-in-the-location"><a href="#3-What-kinds-of-data-can-be-seen-in-the-location" class="headerlink" title="3.What kinds of data can be seen in the location?"></a>3.What kinds of data can be seen in the location?</h3><p>pm2.5\co2\TVOC\temperature\humidity  </p>
+<h3 id="4-Why-does-some-location-shows-no-data-There-is-a-“STALE”"><a href="#4-Why-does-some-location-shows-no-data-There-is-a-“STALE”" class="headerlink" title="4.Why does some location shows no data?There is a “STALE”."></a>4.Why does some location shows no data?There is a “STALE”.</h3><p>Maybe the monitor doesn’t open or the internet isn’t well.</p>
+<h3 id="5-What’s-regular-user"><a href="#5-What’s-regular-user" class="headerlink" title="5.What’s regular user?"></a>5.What’s regular user?</h3><p>It’s under the first user.</p>
+<h3 id="6-What’s-admin-user"><a href="#6-What’s-admin-user" class="headerlink" title="6.What’s admin user?"></a>6.What’s admin user?</h3><p>It’s the first user.</p>
+<h3 id="7-What-different-from-regular-and-admin"><a href="#7-What-different-from-regular-and-admin" class="headerlink" title="7.What different from regular and admin?"></a>7.What different from regular and admin?</h3><h3 id="8-How-to-remove-hardware-from-one-workspace"><a href="#8-How-to-remove-hardware-from-one-workspace" class="headerlink" title="8.How to remove hardware from one workspace?"></a>8.How to remove hardware from one workspace?</h3><h3 id="9-What-does-Location-Reading-PRO-mean"><a href="#9-What-does-Location-Reading-PRO-mean" class="headerlink" title="9.What does Location Reading PRO mean?"></a>9.What does Location Reading PRO mean?</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23791114/c9159054-05bc-11e7-868f-cc298c9b08df.jpg" alt=""></p>
+<h3 id="10-How-to-use-this-setting"><a href="#10-How-to-use-this-setting" class="headerlink" title="10.How to use this setting?"></a>10.How to use this setting?</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23791310/6b21df7e-05bd-11e7-88f6-87363a4784cd.jpg" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Compatible Monitors </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Forgot-Password]]></title>
+      <url>/Forgot-Password/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>If you forgot your password, you will need to reset your password via your email.</p>
+<h2 id="1-Forgot-your-Password-Page"><a href="#1-Forgot-your-Password-Page" class="headerlink" title="1. Forgot your Password Page"></a>1. Forgot your Password Page</h2><p>Go to QLEAR.build and click on the “Sign In” link on the top right.<br>Then find the “Forgot Password?” link under the Sign In button.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24237883/3087653e-0fe3-11e7-9180-27bf5459e20e.jpg" alt=""></p>
+<h2 id="2-Reset-Password"><a href="#2-Reset-Password" class="headerlink" title="2. Reset Password"></a>2. Reset Password</h2><p>Fill in your email and click “Reset Password”. You will receive an email with a link to input your new password.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24238136/2b28f7e6-0fe4-11e7-9cce-146855737e9a.png" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> User Settings </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Adding-Hardware-to-QLEAR]]></title>
+      <url>/Adding-Hardware-to-QLEAR/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>Adding Hardware to QLEAR is a simple process. Follow the steps below to add a hardware to your QLEAR Workspace. </p>
+<p>Note that a Workspace must be created before adding hardware. The instructions for that can be found <a href="/How-to-Sign-In">here</a>.</p>
+<h2 id="1-Click-on-the-Add-Button"><a href="#1-Click-on-the-Add-Button" class="headerlink" title="1. Click on the Add Button"></a>1. Click on the Add Button</h2><p>Find the blue plus button on the bottom right of the screen and click it to reveal 3 “Add” options.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23735055/417b9908-04be-11e7-8431-026447035aa6.jpg" alt=""></p>
+<h2 id="2-Add-New-Hardware-Page"><a href="#2-Add-New-Hardware-Page" class="headerlink" title="2. Add New Hardware Page"></a>2. Add New Hardware Page</h2><p>After you click New Hardware, you will be take to the Add New Hardware Page.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23735108/a6009fc2-04be-11e7-99e7-de4689720512.png" alt=""></p>
+<h2 id="3-Input-Monitor-Information"><a href="#3-Input-Monitor-Information" class="headerlink" title="3. Input Monitor Information"></a>3. Input Monitor Information</h2><p>Select a Workspace you want to add the monitor to, the Brand of the monitor, the SKU of the monitor, and the identifier code of the monitor.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23735208/24ee5f90-04bf-11e7-9532-ae4cc209b85c.png" alt=""></p>
+<p>Click CREATE DEVICE to finish adding the monitor to your workspace.</p>
+<hr>
+<p>Now you can find this monitor in the Workspace that you attached the monitor to.  </p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23735627/aeeb7e60-04c1-11e7-84c6-f39d437f129f.jpg" alt=""></p>
+<hr>
+<p>If you cannot add the hardware to your workspace, it might be because the monitor belongs to another Workspace already. Please contact QLEAR administrators via support@qlear.build to help solve this issue.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Getting Started </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Graph&Data]]></title>
+      <url>/Graph&amp;Data/</url>
+      <content type="html"><![CDATA[<h1 id="1-GRAPH"><a href="#1-GRAPH" class="headerlink" title="1.GRAPH"></a>1.GRAPH</h1><p><img src="https://cloud.githubusercontent.com/assets/26155270/23983321/4f62a4ae-0a4e-11e7-96cc-8a0a38a3f9de.png" alt="">  </p>
+<h3 id="You-can-see-the-graph-of-the-different-monitors-and-compare-data-with-outdoor-or-average"><a href="#You-can-see-the-graph-of-the-different-monitors-and-compare-data-with-outdoor-or-average" class="headerlink" title="You can see the graph of the different monitors and compare data with outdoor or average."></a>You can see the graph of the different monitors and compare data with outdoor or average.</h3><h3 id="You-also-can-select-different-index"><a href="#You-also-can-select-different-index" class="headerlink" title="You also can select different index"></a>You also can select different index</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23603686/118c0b76-0291-11e7-8e51-1e8dd73b0807.png" alt=""> </p>
+<h3 id="or-different-time"><a href="#or-different-time" class="headerlink" title="or different time"></a>or different time</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23603732/49b7cc4c-0291-11e7-8344-7fbf722ebcb6.png" alt=""> </p>
+<h3 id="or-different-monitor-to-compare-with-outdoor"><a href="#or-different-monitor-to-compare-with-outdoor" class="headerlink" title="or different monitor to compare with outdoor."></a>or different monitor to compare with outdoor.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23983990/0dfb2b18-0a52-11e7-9bda-a7efd737e574.png" alt="">  </p>
+<h1 id="2-EVERY-HOUR"><a href="#2-EVERY-HOUR" class="headerlink" title="2.EVERY HOUR"></a>2.EVERY HOUR</h1><h3 id="From-this-pages-You-can-see-every-hour-average-data-Also-you-can-select-the-day-you-want-to-know-And-download-a-month-data-you-want-to-know"><a href="#From-this-pages-You-can-see-every-hour-average-data-Also-you-can-select-the-day-you-want-to-know-And-download-a-month-data-you-want-to-know" class="headerlink" title="From this pages, You can see every hour average data. Also you can select the day you want to know. And download a month data you want to know."></a>From this pages, You can see every hour average data. Also you can select the day you want to know. And download a month data you want to know.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23984110/b80d4686-0a52-11e7-9284-11d19f761215.png" alt="">  </p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23984798/70259dc4-0a56-11e7-82e3-9c7b77ccf6aa.png" alt="">  </p>
+<h1 id="3-CALENDAR"><a href="#3-CALENDAR" class="headerlink" title="3.CALENDAR"></a>3.CALENDAR</h1><h3 id="The-calendar-section-allows-you-to-check-average-indoor-air-indices-for-every-day-in-a-year-Monthly-IAQ-reports-will-be-based-on-these-values"><a href="#The-calendar-section-allows-you-to-check-average-indoor-air-indices-for-every-day-in-a-year-Monthly-IAQ-reports-will-be-based-on-these-values" class="headerlink" title="The calendar section allows you to check average indoor air indices for every day in a year. Monthly IAQ reports will be based on these values."></a>The calendar section allows you to check average indoor air indices for every day in a year. Monthly IAQ reports will be based on these values.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/24027245/ebd8d828-0b00-11e7-840c-dad7fcd2c505.png" alt="">  </p>
+<h1 id="4-REPORT"><a href="#4-REPORT" class="headerlink" title="4.REPORT"></a>4.REPORT</h1><h3 id="There-is-a-weekly-report-where-you-can-see-the-best-and-the-worst-data-of-this-week"><a href="#There-is-a-weekly-report-where-you-can-see-the-best-and-the-worst-data-of-this-week" class="headerlink" title="There is a weekly report where you can see the best and the worst data of this week."></a>There is a weekly report where you can see the best and the worst data of this week.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/24027970/5835037a-0b06-11e7-9c76-73be4453624b.png" alt=""></p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24027975/6b61472e-0b06-11e7-9302-c6fbf1c3f9f7.png" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Locations </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[How-to-Sign-In]]></title>
+      <url>/How-to-Sign-In/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>Now that you have an account, it’s time to sign in.</p>
+<h2 id="1-Go-to-the-Sign-In-Page"><a href="#1-Go-to-the-Sign-In-Page" class="headerlink" title="1. Go to the Sign In Page"></a>1. Go to the Sign In Page</h2><p>When you go to <a href="https://www.qlear.build/" target="_blank" rel="external">QLEAR</a> and you’re not signed in, you will find the “Sign In” link on the top right corner of the page.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23734428/f761f47e-04b9-11e7-8f22-e414a4791624.jpg" alt=""></p>
+<h2 id="2-Sign-In"><a href="#2-Sign-In" class="headerlink" title="2. Sign In"></a>2. Sign In</h2><p>Fill in your username and password, then click the “Sign In” button.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23650996/060e98a8-035f-11e7-9141-faa1391ed90f.png" alt=""></p>
+<p>And you’re in!</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23651471/9278e892-0360-11e7-8396-2e5fe21cfc35.png" alt=""></p>
+<hr>
+<p>To learn about the Dashboard, go <a href="/Using-the-Dashboard">here</a></p>
+<p><strong>OR</strong></p>
+<p>If you have a monitor you need to add to your QLEAR Account, go <a href="/Adding-your-First-Monitor">here</a>.  </p>
+<p><strong>OR</strong>  </p>
+<p>If you don’t, let’s browse <a href="/Using-Public-Locations">publicly available locations</a> first.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Getting Started </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Home]]></title>
+      <url>/Home/</url>
+      <content type="html"><![CDATA[<h1 id="Welcome-to-the-QLEAR-User-Guide"><a href="#Welcome-to-the-QLEAR-User-Guide" class="headerlink" title="Welcome to the QLEAR User Guide"></a>Welcome to the QLEAR User Guide</h1><p>The QLEAR User Guide will answer any questions you have about QLEAR.</p>
+<p>Please visit the side bar to see if you can find what you’re looking for.</p>
+<h1 id="What-is-QLEAR"><a href="#What-is-QLEAR" class="headerlink" title="What is QLEAR?"></a>What is QLEAR?</h1><p>QLEAR is a platform for storing and displaying data about your working environment. This includes things like air quality, light and noise data, electricity use, etc. QLEAR provides both web and mobile applications to view and share the data to many different audiences.</p>
+<h1 id="Introduction-to-using-QLEAR"><a href="#Introduction-to-using-QLEAR" class="headerlink" title="Introduction to using QLEAR"></a>Introduction to using QLEAR</h1><h3 id="Signing-in-to-QLEAR"><a href="#Signing-in-to-QLEAR" class="headerlink" title="Signing in to QLEAR"></a>Signing in to QLEAR</h3><p>To use QLEAR you’ll need to have compatible, internet-connected monitor(s) online and configured to send data to QLEAR. We are hardware agnostic and support many different types of meters. Once your monitors are online, configuring QLEAR is easy.<br>First you’ll need to create an account and sign in. Upon successfully signing in, you’ll be taken to your dashboard. This is where you’ll be able to see important locations and meters at a glance once you’ve finished configuring QLEAR.</p>
+<p>For more instructions on Signing In, please click <a href="/How-to-Sign-In">here</a>.</p>
+<h3 id="Creating-a-Workspace"><a href="#Creating-a-Workspace" class="headerlink" title="Creating a Workspace"></a>Creating a Workspace</h3><p>Next, you’ll create a workspace. Workspaces are the first level of organization, where you and add and remove users, set permission and visibility levels, etc. Typically this is named after the company or institution. To do this, under All select workspaces from the left-hand menu. Then select the Create New workspace button at the top-right of the table. Give your workspace a name and description, &amp; hit save. You’ll notice that your new workspace shows up now in the left-hand menu.</p>
+<h3 id="Add-Monitors-to-your-Workspace"><a href="#Add-Monitors-to-your-Workspace" class="headerlink" title="Add Monitors to your Workspace"></a>Add Monitors to your Workspace</h3><p>Once your workspace is created, you’ll want to claim your monitors. To do this, you’ll need click on the name of your workspace in the left-hand menu to expand the full list of options click on the submenu option Hardware. From here, click on the circular action menu found in the lower right hand of the screen. You’ll be redirected to the New Hardware page, where you’ll be prompted to select a device type. Once you’ve selected the appropriate monitor type, you’ll be prompted to enter an Identifier, a unique serial number or code provided by the monitor manufacturer used to find the monitor and its data in our database, and a Label to help you identify what the monitor is. Once completed, hit Create Device. Repeat as needed for any additional monitors you have. If you get new monitors at a later time, you can always return to this page to claim more monitors and at it to your hardware inventory.</p>
+<h3 id="Allocating-your-Monitors-to-a-Location"><a href="#Allocating-your-Monitors-to-a-Location" class="headerlink" title="Allocating your Monitors to a Location"></a>Allocating your Monitors to a Location</h3><p>Now that you’ve got your workspace set up and your monitors claimed in your hardware inventory, you now can create your locations and begin attaching their respective monitors. To do so, click on Locations under your workspace, just as you did for Hardware. Similar to before, click on the circular action menu found in the lower right hand of the screen. You’ll be redirected to the New Locations page, where you’ll be prompted to input various details about the location. Once you’ve finished those, hit Create Location, repeating as needed.</p>
+<h3 id="Configuring-the-Location"><a href="#Configuring-the-Location" class="headerlink" title="Configuring the Location"></a>Configuring the Location</h3><p>Once you’ve added all the locations you want, you’ll want to configure them further and attach their respective monitors. To do this, click on Locations again from the left-hand side under your workspace and click on the location you want to edit. This will take you to the location’s main page where you’ll see the location’s real-time snapshot on the left. Click on the circular action menu found in the lower right hand of the screen and select edit location from the menu. Here you’ll presented with various options to customize the location and how it is displayed. Click on the Monitors tab along the top navigation bar, and then select the Add Monitor on the far right of the Monitor List section. Next, in the new line item created, use the dropdown menu on the right-hand side to see a list of unattached and available monitors in your workspace. Select the correct monitor for the location, give it a Station Name, set its visibility and choose which indicators you’d like to display for the Station. Please note that you can you use the same monitor to create multiple stations if you would like. This permits you group indicators into different categories if you so choose. Once you are done attaching monitors to a location, click the Update button to save your work.</p>
+<h3 id="Adding-a-Location-to-your-Dashboard"><a href="#Adding-a-Location-to-your-Dashboard" class="headerlink" title="Adding a Location to your Dashboard"></a>Adding a Location to your Dashboard</h3><p>Finally you can add your preferred locations to your dashboard by navigating to the locations that you want to add, click on the circular action menu, and select Add to Dashboard. Now when you navigate back to your personal dashboard or login next, you’ll see any locations you’ve added. You are not limited to only locations in your workspace. You can add any publically visible locations that you want.</p>
+<h3 id="Closing-Notes"><a href="#Closing-Notes" class="headerlink" title="Closing Notes"></a>Closing Notes</h3><p>With that, you’ve completed the initial steps to get started with QLEAR. Navigate around your workspace to see all the features in action! This is by no means the limits of configurability or features in QLEAR, so be sure to see the other guides in our knowledge base for more info on how to best use QLEAR for your needs.</p>
+<h1 id="QLEAR-Vocabulary"><a href="#QLEAR-Vocabulary" class="headerlink" title="QLEAR Vocabulary"></a>QLEAR Vocabulary</h1><p>Workspace :<br>Location :<br>Monitor<br>Indicator<br>Reading<br>Raw data<br>Floating action button<br>Notification<br>Claim (alternative, bind ?)<br>Subscribe<br>attach<br>station  </p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Indoor-vs.-Outdoor-Location]]></title>
+      <url>/Indoor-vs.-Outdoor-Location/</url>
+      <content type="html"><![CDATA[<p>Test</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Inviting-a-User-to-your-Workspace]]></title>
+      <url>/Inviting-a-User-to-your-Workspace/</url>
+      <content type="html"><![CDATA[<h3 id="If-you-are-the-founder-of-the-workspace-and-you-want-other-person-to-enter-or-edit-the-workspace-you-should-click-there"><a href="#If-you-are-the-founder-of-the-workspace-and-you-want-other-person-to-enter-or-edit-the-workspace-you-should-click-there" class="headerlink" title="If you are the founder of the workspace and you want other person to enter or edit the workspace, you should click there."></a>If you are the founder of the workspace and you want other person to enter or edit the workspace, you should click there.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23694875/40fef530-0417-11e7-913f-9df1f1ad6492.jpg" alt=""> <img src="https://cloud.githubusercontent.com/assets/26155270/23694955/c1870f1c-0417-11e7-8261-2ea8958053a0.jpg" alt=""></p>
+<h3 id="You-can-set-the-limits-of-permission"><a href="#You-can-set-the-limits-of-permission" class="headerlink" title="You can set the limits of permission."></a>You can set the limits of permission.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23695651/4b2a4830-041b-11e7-9eae-e3ba457ce1bc.png" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Workspace </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Location-Permissions]]></title>
+      <url>/Location-Permissions/</url>
+      <content type="html"><![CDATA[<p>Test</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Locations </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Navigating-Hardware]]></title>
+      <url>/Navigating-Hardware/</url>
+      <content type="html"><![CDATA[<p>This section will show you the different aspects of navigating Hardware, starting with the following:</p>
+<ul>
+<li>Getting to Hardware Display</li>
+<li>Hardware Display</li>
+</ul>
+<h2 id="Getting-to-Hardware-Display"><a href="#Getting-to-Hardware-Display" class="headerlink" title="Getting to Hardware Display"></a>Getting to Hardware Display</h2><p>In the left sidebar, select Hardware under the Workspace it belongs to.</p>
+<h3 id="INSERT-IMAGE-OF-THE-LEFT-SIDE-BAR-WITH-“HARDWARE”-HIGHLIGHTED"><a href="#INSERT-IMAGE-OF-THE-LEFT-SIDE-BAR-WITH-“HARDWARE”-HIGHLIGHTED" class="headerlink" title="INSERT IMAGE OF THE LEFT SIDE BAR, WITH “HARDWARE” HIGHLIGHTED"></a>INSERT IMAGE OF THE LEFT SIDE BAR, WITH “HARDWARE” HIGHLIGHTED</h3><p>This will take you to your Hardware Thumbnails page. </p>
+<h3 id="INSERT-IMAGE-OF-HARDWARE-THUMBNAILS-PAGE"><a href="#INSERT-IMAGE-OF-HARDWARE-THUMBNAILS-PAGE" class="headerlink" title="INSERT IMAGE OF HARDWARE THUMBNAILS PAGE"></a>INSERT IMAGE OF HARDWARE THUMBNAILS PAGE</h3><p>Click on a thumbnail to take you to a Hardware Display.</p>
+<h2 id="Hardware-Display"><a href="#Hardware-Display" class="headerlink" title="Hardware Display"></a>Hardware Display</h2><p>A Hardware Display page looks like the following:</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23733615/f45d47ec-04b4-11e7-8412-1171a28f10c0.jpg" alt=""></p>
+<p>The Hardware Display page shows the monitor’s latest data</p>
+<p>To navigate Hardware Display, click on the button on the blue button on the bottom right corner with the following options:</p>
+<ul>
+<li><a href="/%5BHardware%5D-Graph-&amp;-Data">Graph &amp; Data</a></li>
+<li><a href="/%5BHardware%5D-Show-History">Show History</a></li>
+<li><a href="/%5BHardware%5D-Edit-Monitor">Edit Monitor</a></li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> Hardware </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Navigating-Location]]></title>
+      <url>/Navigating-Location/</url>
+      <content type="html"><![CDATA[<h2 id="Click-on-the-bottom-right-corner-button"><a href="#Click-on-the-bottom-right-corner-button" class="headerlink" title="Click on the bottom right corner button"></a>Click on the bottom right corner button</h2><p><img src="https://cloud.githubusercontent.com/assets/26155270/23982818/fa8d7e98-0a4a-11e7-9808-038d166dce45.jpg" alt=""> </p>
+<ul>
+<li><h3 id="Graph-and-data"><a href="#Graph-and-data" class="headerlink" title="Graph and data"></a><a href="/Graph&amp;Data">Graph and data</a></h3></li>
+</ul>
+<ul>
+<li><h3 id="Add-to-Dashboard"><a href="#Add-to-Dashboard" class="headerlink" title="Add to Dashboard"></a>Add to Dashboard</h3></li>
+</ul>
+<ul>
+<li><h3 id="Notification"><a href="#Notification" class="headerlink" title="Notification"></a>Notification</h3></li>
+</ul>
+<ul>
+<li><h3 id="Show-history"><a href="#Show-history" class="headerlink" title="Show history"></a>Show history</h3></li>
+</ul>
+<ul>
+<li><h3 id="Edit-location"><a href="#Edit-location" class="headerlink" title="Edit location"></a>Edit location</h3></li>
+</ul>
+<h2 id="In-the-side-of-the-page"><a href="#In-the-side-of-the-page" class="headerlink" title="In the side of the page"></a>In the side of the page</h2><h3 id="Show-the-data-of-all-indexes-in-one-monitor-or-location-average-There-are-some-grades-like-good-moderate-sensitive-etc-You-can-judge-the-location-air-by-these-directly"><a href="#Show-the-data-of-all-indexes-in-one-monitor-or-location-average-There-are-some-grades-like-good-moderate-sensitive-etc-You-can-judge-the-location-air-by-these-directly" class="headerlink" title="Show the data of all indexes in one monitor or location average. There are some grades like good\moderate\sensitive etc. You can judge the location air by these directly."></a>Show the data of all indexes in one monitor or location average. There are some grades like good\moderate\sensitive etc. You can judge the location air by these directly.</h3><p><img src="https://cloud.githubusercontent.com/assets/26155270/23647981/98d03888-0353-11e7-9ad2-0a8ab080ae84.png" alt=""></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Locations </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Using-Public-Locations]]></title>
+      <url>/Using-Public-Locations/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>Public Locations are locations that are set to be searchable by anybody using QLEAR. This includes any location that wants to publicizes their data, especially commercial spaces such as coffee shops, restaurants, and malls. This also includes all the publicly accessible outdoor locations available on QLEAR.</p>
+<p>Public Locations allow for the comparison of data between your locations and other locations.  </p>
+<h2 id="Accessing-Public-Locations"><a href="#Accessing-Public-Locations" class="headerlink" title="Accessing Public Locations"></a>Accessing Public Locations</h2><p>You can find Public Locations whether you are signed in or signed out.</p>
+<h3 id="Accessing-Public-Locations-while-Signed-Out"><a href="#Accessing-Public-Locations-while-Signed-Out" class="headerlink" title="Accessing Public Locations while Signed Out"></a>Accessing Public Locations while Signed Out</h3><p>To access Public Locations when you are signed out, access the <a href="https://qlear.build/" target="_blank" rel="external">homepage</a></p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24236348/78cfb6ea-0fdc-11e7-8f35-57a92872f835.png" alt=""></p>
+<p>Click on any of the cities to see the available Public Locations in that city or click on “Browse All Cities” to get a list of all the cities.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24236455/ba96db9e-0fdc-11e7-89c6-7c4c8b331b07.png" alt=""></p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24236470/d1c2e6be-0fdc-11e7-849a-514635287cc5.png" alt=""></p>
+<h3 id="Accessing-Public-Locations-while-Signed-In"><a href="#Accessing-Public-Locations-while-Signed-In" class="headerlink" title="Accessing Public Locations while Signed In"></a>Accessing Public Locations while Signed In</h3><p>To access Public Locations when you are signed in, find the Public Locations link on the left sidebar.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24237416/234ba85a-0fe1-11e7-9670-9fabcceac38d.jpg" alt=""></p>
+<p>Click on any city to see the available Public Locations in that city.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24237500/853fbf38-0fe1-11e7-88a7-9a71ec0c6504.png" alt=""></p>
+<h2 id="Adding-a-Public-Location-to-your-Dashboard"><a href="#Adding-a-Public-Location-to-your-Dashboard" class="headerlink" title="Adding a Public Location to your Dashboard"></a>Adding a Public Location to your Dashboard</h2><p>Please refer to <a href="/Add-to-Dashboard">“Add to Dashboard”</a> to learn how to add location to your Dashboard.</p>
+<hr>
+<h2 id="How-do-I-add-my-location-to-Public-Locations"><a href="#How-do-I-add-my-location-to-Public-Locations" class="headerlink" title="How do I add my location to Public Locations?"></a>How do I add my location to Public Locations?</h2><p>Locations can be set to Public by requesting a QLEAR Administrator to set it for you. To add your locations in the Public Locations, please email support@qlear.build with your request.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Getting Started </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[What-is-a-Workspace?]]></title>
+      <url>/What-is-a-Workspace/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>Workspace is a management space of your Locations, Hardware, and permissions. A workspace comprises all of the locations and hardwares that belong to this workspace and facilitates the permissions set around them. More information about Workspace Permissions available <a href="/Workspace-User-Permission">here</a>.</p>
+<h3 id="QLEAR-Basic-and-QLEAR-Pro"><a href="#QLEAR-Basic-and-QLEAR-Pro" class="headerlink" title="QLEAR Basic and QLEAR Pro"></a>QLEAR Basic and QLEAR Pro</h3><p>Workspace is also the level at which the QLEAR Basic and QLEAR Pro is selected. More information on the differences between QLEAR Basic and QLEAR Pro available <a href="/Basic-vs.-Pro">here</a>.</p>
+<h2 id="Accessing-your-Workspace"><a href="#Accessing-your-Workspace" class="headerlink" title="Accessing your Workspace"></a>Accessing your Workspace</h2><p>You can find your Workspace in the left side bar, highlighted by the red rectangle below. </p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23688895/19bc34c6-03f2-11e7-80da-3c4e5a4932ad.jpg" alt=""></p>
+<p>GIGA is the workspace name and the dropdown includes:</p>
+<ul>
+<li>Locations - list of all Locations that belong to this Workspace</li>
+<li>Hardware - list of all Hardware that belong to this Workspace</li>
+<li><a href="/Workspace-Overview">Overview</a> - Information and User Permissions for this Workspace</li>
+</ul>
+<hr>
+<p>To find out more about Workspace Overview, click <a href="/Workspace-Overview">here</a>.  </p>
+<p><strong>OR</strong></p>
+<p>To learn how to create a new Workspace, click <a href="/Create-a-Workspace">here</a>.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Workspace </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[What-is-a-Hardware?]]></title>
+      <url>/What-is-a-Hardware/</url>
+      <content type="html"><![CDATA[<p>In QLEAR, one of the core concepts is the Hardware. It represents any piece of hardware that is connected to QLEAR.</p>
+<p>Hardware must belong to a Workspace in QLEAR.</p>
+<p>Currently, the most common hardware on QLEAR are monitors for testing air quality.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Hardware </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Using-the-Dashboard]]></title>
+      <url>/Using-the-Dashboard/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>When signing in, the first page you see is your Dashboard.</p>
+<p>The Dashboard is a place where you can choose to pin the Location Average readings or a specific monitor’s readings from a Location to get a quick glance at your most frequented Location’s status.</p>
+<h3 id="How-to-Add-to-your-Dashboard"><a href="#How-to-Add-to-your-Dashboard" class="headerlink" title="How to Add to your Dashboard"></a>How to Add to your Dashboard</h3><p>When you first start, you will have nothing in your Dashboard.  To add, there are two options: add from your Locations or add from Public Locations.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/24087884/3e7e62d6-0d5f-11e7-9181-6c661af058c4.png" alt=""></p>
+<p>To add from your Location, go to <a href="/Add-to-Dashboard">Add to Dashboard</a>.</p>
+<p><strong>Or</strong></p>
+<p>To add from a Public Location, go to <a href="/Using-Public-Locations">Using Public Locations</a>.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Getting Started </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[What-is-a-Location?]]></title>
+      <url>/What-is-a-Location/</url>
+      <content type="html"><![CDATA[<p>It’s a settled space which belong to one workspace.</p>
+<h3 id="Public-location"><a href="#Public-location" class="headerlink" title="Public location"></a>Public location</h3><p>You can see some location which located other place.If you want to join in public location,just contact with us.(nick@qlear.build)  </p>
+]]></content>
+      
+        <categories>
+            
+            <category> Locations </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Workspace-Overview]]></title>
+      <url>/Workspace-Overview/</url>
+      <content type="html"><![CDATA[<p>LGTM</p>
+<p>Workspace Overview is only accessible to the Administrators of this workspace, which can be changed in “Users”. Workspace Overview includes 3 sections:</p>
+<ul>
+<li>Basic Information</li>
+<li>Users</li>
+<li>Key</li>
+</ul>
+<p>Specifics for the 3 sections is available below:</p>
+<h2 id="Basic-information"><a href="#Basic-information" class="headerlink" title="Basic information"></a>Basic information</h2><p>Basic Information includes the Workspace Name and Description. Both the Name and Description is editable.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23741665/932c6f5e-04e4-11e7-9698-d804986b6920.png" alt=""> </p>
+<h2 id="Users"><a href="#Users" class="headerlink" title="Users"></a>Users</h2><p>This section shows all the users that have access to this space and their user permissions. </p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23741688/bad794ac-04e4-11e7-8e11-6537130116f8.png" alt=""></p>
+<p>For more information about User Permissions, click <a href="/Workspace-User-Permissions">here</a>.</p>
+<h2 id="Key"><a href="#Key" class="headerlink" title="Key"></a>Key</h2><p>Key will display the key required for APIs for accessing Workspace data. This is currently a work in progress.</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Workspace </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Workspace-User-Permissions]]></title>
+      <url>/Workspace-User-Permissions/</url>
+      <content type="html"><![CDATA[<p>Workspace User Permissions is where users can set access permissions for users.</p>
+<p><img src="https://cloud.githubusercontent.com/assets/26155270/23741688/bad794ac-04e4-11e7-8e11-6537130116f8.png" alt=""></p>
+<p><strong>Note:</strong> Only users with Admin permissions in the workspace have the ability to access Workspace User Permissions.</p>
+<h2 id="Workspace-Permission-Options"><a href="#Workspace-Permission-Options" class="headerlink" title="Workspace Permission Options"></a>Workspace Permission Options</h2><p>There are two permission options:</p>
+<ul>
+<li>Admin</li>
+<li>Regular</li>
+</ul>
+<p>Users with Admin permissions in the workspace</p>
+<p>Users with Regular permissions</p>
+<h2 id="How-do-I-get-permission-to-access-the-Workspace"><a href="#How-do-I-get-permission-to-access-the-Workspace" class="headerlink" title="How do I get permission to access the Workspace?"></a>How do I get permission to access the Workspace?</h2><p><strong>1. You are the founder of this workspace.</strong>  <a href="/Creating-a-Workspace">Creating a Workspace</a></p>
+<p><strong>2. Be invited by others who have the permission</strong> <a href="/Inviting-a-User-to-your-Workspace">Inviting users to your Workspace</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Workspace </category>
+            
+        </categories>
+        
+        
+    </entry>
+    
+  
+  
+    
+  
+</search>

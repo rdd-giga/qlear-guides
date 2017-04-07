@@ -1,0 +1,25 @@
+<header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="<%- url_for() %>" id="logo"><%= config.title %></a>
+      </h1>
+      <% if (theme.subtitle){ %>
+        <h2 id="subtitle-wrap">
+          <a href="<%- url_for() %>" id="subtitle"><%= theme.subtitle %></a>
+        </h2>
+      <% } %>
+      <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable" method="post" action="">
+          <form autocomplete="off" id="search-form" class="mdl-textfield__expandable-holder">
+              <input type="text" id="search" class="form-control mdl-textfield__input search-input" name="q" results="0" placeholder=""/>
+              <label id="search-form-label" class="mdl-textfield__label" for="search"></label>
+          </form>
+      </div>
+      <div id="local-search-result"></div>
+    </div>
+    <div id="header-inner" class="inner">
+
+    </div>
+  </div>
+</header>

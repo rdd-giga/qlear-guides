@@ -1,0 +1,20 @@
+<% if(posts.length) { %>
+  <div class="home-category">
+    <h2><%= category %></h2>
+    <% posts.forEach(function(post) { %>
+      <ul>
+        <% if (post.link || post.title){ %>
+          <% if (post.link){ %>
+            <li itemprop="name">
+              <a href="<%- url_for(post.link) %>" target="_blank" itemprop="url"><%= post.title %></a>
+            </li>
+          <% } else { %>
+            <li itemprop="name">
+              <a href="<%- url_for(post.path) %>"><%= post.title %></a>
+            </li>
+          <% } %>
+        <% } %>
+      </ul>
+    <% }) %>
+  </div>
+<% } %>
