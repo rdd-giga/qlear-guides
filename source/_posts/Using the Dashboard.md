@@ -1,5 +1,5 @@
 ---
-title: Using-the-Dashboard
+title: Using the Dashboard
 categories: Getting Started
 ---
 LGTM

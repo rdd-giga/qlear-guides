@@ -1,5 +1,5 @@
 ---
-title: Navigating-Hardware
+title: Navigating Hardware
 categories: Hardware
 ---
 This section will show you the different aspects of navigating Hardware, starting with the following:

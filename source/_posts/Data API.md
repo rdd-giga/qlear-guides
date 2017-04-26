@@ -1,5 +1,5 @@
 ---
-title: Data-API
+title: Data API
 categories: Data Access
 ---
 For data access, we also have a basic API, available for Pro Workspaces.

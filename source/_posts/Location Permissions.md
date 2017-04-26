@@ -1,5 +1,5 @@
 ---
-title: Location-Permissions
+title: Location Permissions
 categories: Locations
 ---
 Test

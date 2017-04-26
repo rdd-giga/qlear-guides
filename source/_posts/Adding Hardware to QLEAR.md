@@ -1,6 +1,6 @@
 ---
-title: Adding-Hardware-to-QLEAR
-categories: Getting Started
+title: Adding Hardware to QLEAR
+categories: Hardware
 ---
 LGTM
 

@@ -15,6 +15,5 @@ hexo.extend.helper.register('home', function(page){
       }
     })
   });
-
   return posts;
 });

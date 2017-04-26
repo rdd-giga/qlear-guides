@@ -1,5 +1,5 @@
 ---
-title: What-is-a-Location?
+title: What is a Location?
 categories: Locations
 ---
 It's a settled space which belong to one workspace.

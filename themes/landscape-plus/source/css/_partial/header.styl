@@ -1,5 +1,4 @@
 #header
-  height: banner-height
   position: relative
   border-bottom: 1px solid color-border
   &:before, &:after
@@ -168,3 +167,58 @@ $nav-link
   cursor: pointer
   &:hover, &:focus
     color: #777
+
+.header-logo-wrapper
+  width: 100%;
+  height: 40px;
+  background: #006c92;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  img
+    height: 18px;
+    margin: 10px 25px 0;
+
+.site-max-width
+  margin: 0 auto;
+  max-width: 1400px;
+
+.site-main
+  padding-top: 40px;
+  background-color: white;
+
+.site-home-introduction
+  overflow: hidden;
+  position: relative;
+  min-height: 150px;
+  height: calc( 50vh - 50px );
+  max-height: 700px;
+  background: url("https://oce68h8yi.qnssl.com/src/images/bg01.png") no-repeat center center fixed;
+  background-size: cover;
+
+.site-home-introduction__blue-overlay
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,180,231,.9);
+
+
+.site-home-introduction__text-wrapper 
+  position: relative;
+  padding-top: 15vh;
+  padding-left: 8vw;
+  padding-right: 8vw;
+  text-align: center;
+
+
+.site-home-introduction__text 
+  display: inline-block;
+  line-height: 7.6vmin;
+  color: white;
+  font-size: 7vmin;
+  font-family: roboto;
+  font-weight: bold;
+  text-transform: uppercase;

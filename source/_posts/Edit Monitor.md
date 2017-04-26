@@ -1,6 +1,6 @@
 ---
-title: Edit-Monitor
-categories: Hardware
+title: Edit Monitor
+categories: Locations
 ---
 
 

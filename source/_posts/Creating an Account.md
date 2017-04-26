@@ -1,5 +1,5 @@
 ---
-title: Creating-an-Account
+title: Creating an Account
 categories: Getting Started
 ---
 LGTM

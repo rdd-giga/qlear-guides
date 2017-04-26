@@ -1,5 +1,5 @@
 ---
-title: What-is-a-Workspace?
+title: What is a Workspace?
 categories: Workspace
 ---
 LGTM

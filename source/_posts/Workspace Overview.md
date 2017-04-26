@@ -1,5 +1,5 @@
 ---
-title: Workspace-Overview
+title: Workspace Overview
 categories: Workspace
 ---
 LGTM

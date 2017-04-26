@@ -1,5 +1,5 @@
 ---
-title: How-to-Sign-In
+title: How to Sign In
 categories: Getting Started
 ---
 LGTM

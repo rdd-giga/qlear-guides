@@ -1,10 +1,28 @@
 <footer id="footer">
-  <% if (theme.sidebar === 'bottom'){ %>
-    <%- partial('_partial/sidebar') %>
-  <% } %>
-  <div class="outer">
-    <div id="footer-info" class="inner">
-      &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %>
+  <div class="content-Wrapper">
+    <div class="section-title">QLEAR</div>
+    <ul class="link-list">
+      <li class="link-item">
+        <a href='https://qlear.build/about'>About</a>
+      </li>
+      <li class="link-item">
+        <a href='https://qlear.build/termsandservices'>Terms & Services</a>
+      </li>
+      <li class="link-item">
+        <a href='https://qlear.build/changelog'>Change Log</a>
+      </li>
+      <li class="link-item">
+        <a href='https://qlear.build/guides/index.html'>Guide</a>
+      </li>
+    </ul>
+  </div>
+  <div class="content-Wrapper">
+    <div class="copyright">
+      <%= config.author || config.title %> &copy; <%= date(new Date(), 'YYYY') %>. All Rights Reserved.
+      <a class="beian" href="http://www.beian.gov.cn" target="_blank">沪ICP备11038237号-4</a>
     </div>
   </div>
 </footer>
+
+
+

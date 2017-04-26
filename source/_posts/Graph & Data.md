@@ -1,6 +1,6 @@
 ---
-title: Graph-&-Data
-categories: Hardware
+title: Graph & Data
+categories: Locations
 ---
 The Hardware Graph & Data
 

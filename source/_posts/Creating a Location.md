@@ -1,5 +1,5 @@
 ---
-title: Creating-a-Location
+title: Creating a Location
 categories: Locations
 ---
 ### If you want to build a new location, you should go to Dashboard.

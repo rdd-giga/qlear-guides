@@ -1,5 +1,5 @@
 ---
-title: Forgot-Password
+title: Forgot Password
 categories: User Settings
 ---
 LGTM
