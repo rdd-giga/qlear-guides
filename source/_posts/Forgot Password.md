@@ -1,9 +1,8 @@
 ---
-title: Forgot Password
-categories: User Settings
+title: 'Forgot Password'
+categories: 'User Settings'
+sortIndex: '2'
 ---
-LGTM
-
 If you forgot your password, you will need to reset your password via your email.
 
 ## 1. Forgot your Password Page

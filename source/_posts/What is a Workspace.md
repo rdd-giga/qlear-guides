@@ -1,14 +1,9 @@
 ---
-title: What is a Workspace?
-categories: Workspace
+title: 'What is a Workspace?'
+categories: 'Workspace'
+sortIndex: '0'
 ---
-LGTM
-
 Workspace is a management space of your Locations, Hardware, and permissions. A workspace comprises all of the locations and hardwares that belong to this workspace and facilitates the permissions set around them. More information about Workspace Permissions available [here](/Workspace-User-Permission).
-
-### QLEAR Basic and QLEAR Pro
-
-Workspace is also the level at which the QLEAR Basic and QLEAR Pro is selected. More information on the differences between QLEAR Basic and QLEAR Pro available [here](/Basic-vs.-Pro).
 
 ## Accessing your Workspace
 
@@ -18,11 +13,17 @@ You can find your Workspace in the left side bar, highlighted by the red rectang
 
 GIGA is the workspace name and the dropdown includes:
 
-- Locations - list of all Locations that belong to this Workspace
+- [Locations](/What-is-a-Location%3F) - list of all Locations that belong to this Workspace
 - Hardware - list of all Hardware that belong to this Workspace
 - [Overview](/Workspace-Overview) - Information and User Permissions for this Workspace
 
-----------
+------
+
+## QLEAR Basic and QLEAR Pro
+
+Workspace is also the level at which the QLEAR Basic and QLEAR Pro is selected. More information on the differences between QLEAR Basic and QLEAR Pro available [here](/Basic-vs.-Pro).
+
+-----
 
 To find out more about Workspace Overview, click [here](/Workspace-Overview).  
 

@@ -1,6 +1,7 @@
 ---
-title: FAQ
-categories: Compatible Monitors
+title: 'General FAQ'
+categories: 'Data Access and FAQ'
+sortIndex: '1'
 ---
  
 ### 1.Why are some locations locked? 
@@ -38,7 +39,10 @@ It's the first user.
 
 ### 10.How to use this setting?  
 
-![](https://cloud.githubusercontent.com/assets/26155270/23791310/6b21df7e-05bd-11e7-88f6-87363a4784cd.jpg)
+![](https://cloud.githubusercontent.com/assets/26155270/23791310/6b21df7e-05bd-11e7-88f6-87363a4784cd.jpg)   
+
+
+### 11.How we definite the breakpoints of PM2.5\Humidity\TVOC\CO2?
 
 
 

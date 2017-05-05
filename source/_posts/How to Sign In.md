@@ -1,9 +1,8 @@
 ---
-title: How to Sign In
-categories: Getting Started
+title: 'How to Sign In'
+categories: 'Getting Started'
+sortIndex: '2'
 ---
-LGTM
-
 Now that you have an account, it's time to sign in.
 
 ## 1. Go to the Sign In Page

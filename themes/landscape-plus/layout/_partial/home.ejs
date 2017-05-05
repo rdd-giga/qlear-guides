@@ -2,6 +2,7 @@
   <div class="home-category">
     <h2><%= category %></h2>
     <% posts.forEach(function(post) { %>
+
       <ul>
         <% if (post.link || post.title){ %>
           <% if (post.link){ %>
@@ -9,7 +10,7 @@
               <a href="<%- url_for(post.link) %>" target="_blank" itemprop="url"><%= post.title %></a>
             </li>
           <% } else { %>
-            <li itemprop="name">
+            <li itemprop="name" class=<%= post.subTitle ? 'sub' : '' %>>
               <a href="<%- url_for(post.path) %>"><%= post.title %></a>
             </li>
           <% } %>

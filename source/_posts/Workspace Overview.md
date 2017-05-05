@@ -1,9 +1,8 @@
 ---
-title: Workspace Overview
-categories: Workspace
+title: 'Workspace Overview'
+categories: 'Workspace'
+sortIndex: '2'
 ---
-LGTM
-
 Workspace Overview is only accessible to the Administrators of this workspace, which can be changed in "Users". Workspace Overview includes 3 sections:
 
 - Basic Information

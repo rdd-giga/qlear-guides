@@ -1,15 +1,22 @@
 
 #home 
-  overflow: hidden
   max-width: 715px
   margin: 10px auto 50px auto
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
   
 
 .home-category
   width: 50%
-  float: left
   padding-left: 80px
   box-sizing: border-box
+  @media (max-width: 600px) {
+    width: 100%
+    padding-left: calc(50vw - 100px)
+  }
+  .sub
+    text-indent: 10px
   h2
     font-size: 20px
     font-weight: 500
@@ -17,7 +24,6 @@
     margin: 25px 0 15px 0
     cursor: default
   ul
-    margin-left: 20px
     a
       display: inline-block
       max-width: 100%

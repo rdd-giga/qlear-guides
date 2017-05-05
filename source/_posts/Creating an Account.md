@@ -1,11 +1,8 @@
 ---
-title: Creating an Account
-categories: Getting Started
+title: 'Creating an Account'
+categories: 'Getting Started'
+sortIndex: '1'
 ---
-LGTM
-
-## Welcome to QLEAR
-
 The first thing you need to do before being able to access QLEAR's features is to create an account on QLEAR. Just follow the quick and easy steps below:
 
 ## 1. Go to the Sign In Page

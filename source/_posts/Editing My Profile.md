@@ -1,9 +1,8 @@
 ---
-title: Editing My Profile
-categories: User Settings
+title: 'Editing My Profile'
+categories: 'User Settings'
+sortIndex: '0'
 ---
-LGTM
-
 Your Profile contains 3 pieces of basic information for your account:
 
 - Email

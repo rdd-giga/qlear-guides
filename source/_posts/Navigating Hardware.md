@@ -1,38 +1,27 @@
 ---
-title: Navigating Hardware
-categories: Hardware
+title: 'Navigating Hardware'
+categories: 'Hardware'
+sortIndex: '2'
 ---
-This section will show you the different aspects of navigating Hardware, starting with the following:
+There are two main parts to navigating the Hardware Display page: 
 
-- Getting to Hardware Display
-- Hardware Display
+- **Display Area**
+- **Function Button**
 
-## Getting to Hardware Display
+## Display Area
 
-In the left sidebar, select Hardware under the Workspace it belongs to.
+In the left side of the page is the display area which shows all the Hardware's latest data. 
 
-### INSERT IMAGE OF THE LEFT SIDE BAR, WITH "HARDWARE" HIGHLIGHTED
+At the top, there is the ID number of the specific hardware along with the brand. Under that includes real time data of all the relevant parameters to this piece of hardware.
 
-This will take you to your Hardware Thumbnails page. 
+![](https://cloud.githubusercontent.com/assets/3292593/25603570/6f3bcfe8-2f2f-11e7-893c-c392ce2e210a.png)
 
-### INSERT IMAGE OF HARDWARE THUMBNAILS PAGE
+## Function Button 
 
-Click on a thumbnail to take you to a Hardware Display.
+The function button includes access to all the deeper features of the Hardware. It can be found on the bottom right corner and includes the following:
 
-## Hardware Display
+- **[Graph & Data](/Hardware:-Graph-&-Data)**. Access to different forms of data visualization.
+- **[Show History](/Hardware:-Show-History)**. See who and what changes were made in this Location. *Admins only*.
+- **[Edit Monitor](/Hardware:-Edit-Monitor)**. Edit this Monitor. *Admins only*.
 
-A Hardware Display page looks like the following:
-
-![](https://cloud.githubusercontent.com/assets/26155270/23733615/f45d47ec-04b4-11e7-8412-1171a28f10c0.jpg)
-
-The Hardware Display page shows the monitor's latest data
-
-To navigate Hardware Display, click on the button on the blue button on the bottom right corner with the following options:
-
-- [Graph & Data](/%5BHardware%5D-Graph-&-Data)
-- [Show History](/%5BHardware%5D-Show-History)
-- [Edit Monitor](/%5BHardware%5D-Edit-Monitor)
-
-
-
-
+![](https://cloud.githubusercontent.com/assets/3292593/25603569/6f0a7b6e-2f2f-11e7-8fd3-ceb01b739d65.png)

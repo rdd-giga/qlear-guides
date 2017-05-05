@@ -1,10 +1,12 @@
 <% if (pagination == 2){ %>
   <% var posts = home(page); %>
-  <% var sort = ['Getting Started', 'Hardware', 'User Settings', 'Data Access', 'Workspace', 'Compatible Monitors', 'Locations', 'FAQ'];%>
-  <% var keys = Object.keys(posts).sort(function(a, b) { return sort.indexOf(a) - sort.indexOf(b)}) %>
+  <% var sort = ['Getting Started', 'User Settings', 'Workspace', 'Locations', 'Hardware', 'Data Access and FAQ', 'Compatible Monitors', 'FAQ'];%>
+  <% var keys = Object.keys(posts).sort(function(a, b) { return sort.indexOf(a) - sort.indexOf(b)}); %>
   <div id="home">
     <% keys.forEach(function(key) { %>
-      <%- partial('home', {category: key, posts: posts[key]}) %>
+      <% var content = posts[key]; %>
+      <% content =  content.sort(function(a, b) { return a.sortIndex - b.sortIndex});%>
+      <%- partial('home', {category: key, posts: content}) %>
     <% }) %>
   </div>
 <% } else { %>

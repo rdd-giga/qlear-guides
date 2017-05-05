@@ -1,5 +1,6 @@
 ---
-title: Home
+title: 'Home'
+sortIndex: '-1'
 ---
 # Welcome to the QLEAR User Guide
 

@@ -1,9 +1,8 @@
 ---
-title: Changing My Password
-categories: User Settings
+title: 'Changing My Password'
+categories: 'User Settings'
+sortIndex: '1'
 ---
-LGTM
-
 If you want to change your password, please refer to the following steps:
 
 ## 1. Change Password

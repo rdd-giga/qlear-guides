@@ -1,9 +1,8 @@
 ---
-title: Using the Dashboard
-categories: Getting Started
+title: 'Using the Dashboard'
+categories: 'Getting Started'
+sortIndex: '5'
 ---
-LGTM
-
 When signing in, the first page you see is your Dashboard.
 
 The Dashboard is a place where you can choose to pin the Location Average readings or a specific monitor's readings from a Location to get a quick glance at your most frequented Location's status.
@@ -19,3 +18,13 @@ To add from your Location, go to [Add to Dashboard](/Add-to-Dashboard).
 **Or**
 
 To add from a Public Location, go to [Using Public Locations](/Using-Public-Locations).
+
+---
+
+## Troubleshooting Broken Links on the Dashboard
+
+Sometimes, Locations or Location Stations are removed from QLEAR. When that happens, the Dashboard will show the following thumbnail:
+
+![](https://cloud.githubusercontent.com/assets/3292593/25652375/7674c06c-301a-11e7-8b58-7b7f62c3c881.png)
+
+In this situation, please click on the text on the grey bar to prompt the removal of the thumbnail.

@@ -1,9 +1,8 @@
 ---
-title: Using Public Locations
-categories: Getting Started
+title: 'Using Public Locations'
+categories: 'Getting Started'
+sortIndex: '4'
 ---
-LGTM
-
 Public Locations are locations that are set to be searchable by anybody using QLEAR. This includes any location that wants to publicizes their data, especially commercial spaces such as coffee shops, restaurants, and malls. This also includes all the publicly accessible outdoor locations available on QLEAR.
 
 Public Locations allow for the comparison of data between your locations and other locations.  

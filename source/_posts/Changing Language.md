@@ -1,9 +1,8 @@
 ---
-title: Changing Language
-categories: User Settings
+title: 'Changing Language'
+categories: 'User Settings'
+sortIndex: '3'
 ---
-LGTM
-
 QLEAR currently supports English and Mandarin 简体中文. To change to your preferred language, please use the following steps:
 
 ## 1. Change Language
