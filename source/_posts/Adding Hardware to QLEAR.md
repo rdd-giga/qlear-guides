@@ -1,7 +1,7 @@
 ---
 title: 'Adding Hardware to QLEAR'
-categories: 'Hardware'
-sortIndex: '1'
+categories: 'Getting Started'
+sortIndex: '3'
 ---
 Adding Hardware to QLEAR is a simple process. Follow the steps below to add a hardware to your QLEAR Workspace. 
 
