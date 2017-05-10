@@ -12,8 +12,9 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://rdd-giga.github.io
-root: /qlear-guides/
+url: https://guide.qlear.build
+root: /
+
 permalink: :title/
 permalink_defaults:
 

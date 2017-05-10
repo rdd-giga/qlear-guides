@@ -1,15 +1,13 @@
 <header id="header">
   <div class="header-logo-wrapper">
     <a href="https://qlear.build">
-      <img src="https://oce68h8yi.qnssl.com/src/images/qlear-logo-white.png">
+      <img src="<%- url_for("/img/qlear-logo-white.png") %>">
     </a>
   </div>
   <div class="site-main">
-    <section class="site-home-introduction" style="background:  url(<%- url_for("/img/bg01.png") %>) no-repeat center center fixed">
+    <section class="site-home-introduction" >
       <div class="site-home-introduction__text-wrapper site-max-width">
-        <h1 id="logo-wrap">
-          <a href="<%- url_for() %>" id="logo"><%= config.title %></a>
-        </h1>
+        <h1 id="logo-wrap">Welcome to the <img id="logo" src="<%- url_for("/img/logo.png") %>"> Guide. <br/>How can we help you today?</h1>
         <% if (theme.subtitle){ %>
           <h2 id="subtitle-wrap">
             <a href="<%- url_for() %>" id="subtitle"><%= theme.subtitle %></a>
@@ -17,7 +15,7 @@
         <% } %>
         <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable" method="post" action="">
           <form autocomplete="off" id="search-form" class="mdl-textfield__expandable-holder">
-            <input type="text" id="search" class="form-control mdl-textfield__input search-input" name="q" results="0" placeholder=""/>
+            <input type="text" id="search" class="form-control mdl-textfield__input search-input" placeholder="Enter a question, keyword or topic..."/>
             <label id="search-form-label" class="mdl-textfield__label" for="search"></label>
           </form>
         </div>
