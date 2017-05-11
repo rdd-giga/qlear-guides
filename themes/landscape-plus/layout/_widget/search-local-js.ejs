@@ -58,36 +58,44 @@
                         if (isMatch) {
                             str += '<li><a href="'+ data_url +'" class="search-result-title" target="_blank">'+ data_title;
                             str +='<p class="search-result"> Catagory: ' + data_catgories + '</p>' +'</a>';
-                            var content = data.content.trim().replace(/<[^>]+>/g, '');
-                            if (first_occur >= 0) {
-                                // cut out characters
-                                var start = first_occur;
-                                var end = first_occur + 10;
-                                if (start < 0) {
-                                    start = 0;
-                                }
-                                if (start === 0) {
-                                    end = 10;
-                                }
-                                if (end > content.length) {
-                                    end = content.length;
-                                }
-                                var match_content = content.substr(start, end);
-                                // highlight all keywords
-                                keywords.forEach(function(keyword) {
-                                    var regS = new RegExp(keyword, 'gi');
-                                    match_content = match_content.replace(regS, '<em class="search-keyword">'+keyword+'</em>');
-                                })
-                                // str += '<p class="search-result">' + match_content + '...</p>' +'</a>';
-                            }
+                            // var content = data.content.trim().replace(/<[^>]+>/g, '');
+                            // if (first_occur >= 0) {
+                            //     // cut out characters
+                            //     var start = first_occur;
+                            //     var end = first_occur + 10;
+                            //     if (start < 0) {
+                            //         start = 0;
+                            //     }
+                            //     if (start === 0) {
+                            //         end = 10;
+                            //     }
+                            //     if (end > content.length) {
+                            //         end = content.length;
+                            //     }
+                            //     var match_content = content.substr(start, end);
+                            //     // highlight all keywords
+                            //     // keywords.forEach(function(keyword) {
+                            //     //     var regS = new RegExp(keyword, 'gi');
+                            //     //     match_content = match_content.replace(regS, '<em class="search-keyword">'+keyword+'</em>');
+                            //     // })
+                            //     // str += '<p class="search-result">' + match_content + '...</p>' +'</a>';
+                            // }
                         }
                     });
                     $resultContent.innerHTML = str;
                 });
 
-                $input.addEventListener('blur', function() {
-                    $resultContent.style.display = 'none';
-                })
+                $input.addEventListener('blur', function(e) {
+                    setTimeout(function() {
+                        $resultContent.style.display = 'none';
+                    }, 100);
+                });
+
+                $input.addEventListener('focus', function(e) {
+                    if ($resultContent.style.display === 'none' && $resultContent.querySelectorAll('li').length) {
+                        $resultContent.style.display = 'block';                        
+                    }
+                });
             }
         });
     }
