@@ -5,22 +5,24 @@
     </a>
   </div>
   <div class="site-main">
-    <section class="site-home-introduction" >
-      <div class="site-home-introduction__text-wrapper site-max-width">
-        <h1 id="logo-wrap">Welcome to the <img id="logo" src="<%- url_for("/img/logo.png") %>"> Guide. <br/>How can we help you today?</h1>
-        <% if (theme.subtitle){ %>
-          <h2 id="subtitle-wrap">
-            <a href="<%- url_for() %>" id="subtitle"><%= theme.subtitle %></a>
-          </h2>
-        <% } %>
-        <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable" method="post" action="">
-          <form autocomplete="off" id="search-form" class="mdl-textfield__expandable-holder">
-            <input type="text" id="search" class="form-control mdl-textfield__input search-input" placeholder="Enter a question, keyword or topic..."/>
-            <label id="search-form-label" class="mdl-textfield__label" for="search"></label>
-          </form>
+    <% if(!page.layout) { %>
+      <section class="site-home-introduction" >
+        <div class="site-home-introduction__text-wrapper site-max-width">
+          <h1 id="logo-wrap">Welcome to the <img id="logo" src="<%- url_for("/img/logo.png") %>"> Guide. <br/>How can we help you today?</h1>
+          <% if (theme.subtitle){ %>
+            <h2 id="subtitle-wrap">
+              <a href="<%- url_for() %>" id="subtitle"><%= theme.subtitle %></a>
+            </h2>
+          <% } %>
+          <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable" method="post" action="">
+            <form autocomplete="off" id="search-form" class="mdl-textfield__expandable-holder">
+              <input type="text" id="search" class="form-control mdl-textfield__input search-input" placeholder="Enter a question, keyword or topic..."/>
+              <label id="search-form-label" class="mdl-textfield__label" for="search"></label>
+            </form>
+          </div>
+          <div id="local-search-result"></div>
         </div>
-        <div id="local-search-result"></div>
-      </div>
-    </section>
+      </section>
+    <% } %>
   </div>
 </header>

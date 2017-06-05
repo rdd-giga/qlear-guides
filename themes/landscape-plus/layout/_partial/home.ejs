@@ -11,7 +11,7 @@
             </li>
           <% } else { %>
             <li itemprop="name" class=<%= post.subTitle ? 'sub' : '' %>>
-              <a href="<%- url_for(post.path) %>"><%= post.title %></a>
+              <a href="<%- _url(post.path) %>"><%= post.title %></a>
             </li>
           <% } %>
         <% } %>
