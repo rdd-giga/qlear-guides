@@ -1,7 +1,7 @@
 ---
 title: 'General FAQ'
 categories: 'Data Access and FAQ'
-sortIndex: '1'
+sortIndex: '2'
 ---
  
 ### 1.Why are some locations locked? 
@@ -10,17 +10,21 @@ To protect their info.If someone get the URL of their location, he might enter t
     
 ### 2.How can I make my location add to public location?  
    
-Email stanton@giga.build what you want.    
+Email nick@qlear.build for more details.
 
 ### 3.What kinds of data can be seen in the location?  
   
-pm2.5\co2\TVOC\temperature\humidity  
+- PM2.5
+- CO2
+- TVOC
+- Temperature
+- Humidity
   
-### 4.Why does some location shows no data?There is a "STALE".
+### 4.Why does some location shows no data? There is a "STALE".
   
 Maybe the monitor doesn't open or the internet isn't well.
 
-### 5.What's regular user?  
+### 5.What is a regular user?  
   
 It's under the first user.
  
@@ -40,16 +44,4 @@ It's the first user.
 ### 10.How to use this setting?  
 
 ![](https://cloud.githubusercontent.com/assets/26155270/23791310/6b21df7e-05bd-11e7-88f6-87363a4784cd.jpg)   
-
-
-### 11.How we definite the breakpoints of PM2.5\Humidity\TVOC\CO2?
-
-
-
-
-
-
-
-
-
 

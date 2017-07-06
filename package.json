@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "convert": "rm ./source/_posts/* && node lib/convertToMarkdown.js"
+    "convert": "rm ./source/_posts/* ; node lib/convertToMarkdown.js"
   },
   "hexo": {
     "version": "3.3.5"
