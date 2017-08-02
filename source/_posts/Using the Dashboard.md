@@ -13,11 +13,11 @@ When you first start, you will have nothing in your Dashboard.  To add, there ar
 
 ![](https://cloud.githubusercontent.com/assets/26155270/24087884/3e7e62d6-0d5f-11e7-9181-6c661af058c4.png)
 
-To add from your Location, go to [Add to Dashboard](/Add-to-Dashboard).
+To add from your Location, go to [Add to Dashboard](/Add to Dashboard).
 
 **Or**
 
-To add from a Public Location, go to [Using Public Locations](/Using-Public-Locations).
+To add from a Public Location, go to [Using Public Locations](/Using Public Locations).
 
 ---
 

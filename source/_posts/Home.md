@@ -19,7 +19,7 @@ QLEAR is a platform for storing and displaying data about your working environme
 To use QLEAR you'll need to have compatible, internet-connected monitor(s) online and configured to send data to QLEAR. We are hardware agnostic and support many different types of meters. Once your monitors are online, configuring QLEAR is easy.
 First you'll need to create an account and sign in. Upon successfully signing in, you'll be taken to your dashboard. This is where you'll be able to see important locations and meters at a glance once you've finished configuring QLEAR.
 
-For more instructions on Signing In, please click [here](/How-to-Sign-In).
+For more instructions on Signing In, please click [here](/How to Sign In).
 
 ### Creating a Workspace
 

@@ -24,9 +24,9 @@ There are two permission options:
 
 There are two scenarios for getting the permission to access the Workspace.
 
-**1. You are the founder of this workspace.**  Learn more at [Creating a Workspace](/Creating-a-Workspace)
+**1. You are the founder of this workspace.**  Learn more at [Creating a Workspace](/Creating a Workspace)
 
-**2. Be invited by others who have the permission** Learn more at [Inviting users to your Workspace](/Inviting-a-User-to-your-Workspace)
+**2. Be invited by others who have the permission** Learn more at [Inviting users to your Workspace](/Inviting a User to your Workspace)
 
 ------
 

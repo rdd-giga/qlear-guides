@@ -22,7 +22,7 @@ Navigate to the Users tab and then click the "Add User" button on the top right.
 
 ## 3. Email and Permission
 
-Type in the email and select the permission for the user. If unsure of what the Workspace Permissions mean, refer to [Workspace User Permissions](/Workspace-User-Permissions).
+Type in the email and select the permission for the user. If unsure of what the Workspace Permissions mean, refer to [Workspace User Permissions](/Workspace User Permissions).
 
 ![](https://cloud.githubusercontent.com/assets/26155270/23695651/4b2a4830-041b-11e7-9eae-e3ba457ce1bc.png)
 

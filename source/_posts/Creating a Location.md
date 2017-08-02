@@ -25,8 +25,8 @@ After you finish creating the location, you will be able to access the Location 
 
 -----
 
-To learn more about what a Location is, click [here](/What-is-a-Location%3F).
+To learn more about what a Location is, click [here](/What is a Location%3F).
 
 **OR**
 
-To learn how to add a hardware to this Location, click [here](/Adding-Hardware-to-a-Location).
+To learn how to add a hardware to this Location, click [here](/Adding Hardware to a Location).

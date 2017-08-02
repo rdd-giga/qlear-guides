@@ -23,7 +23,7 @@ This section shows all the users that have access to this space and their user p
 
 ![](https://cloud.githubusercontent.com/assets/26155270/23741688/bad794ac-04e4-11e7-8e11-6537130116f8.png)
 
-For more information about User Permissions, click [here](/Workspace-User-Permissions).
+For more information about User Permissions, click [here](/Workspace User Permissions).
 
 ## Key
 

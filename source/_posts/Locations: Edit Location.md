@@ -21,7 +21,7 @@ Basic settings for the Location are located here. Basic settings include:
 - **Location Name**: Location Name to be displayed. *Required*.
 - **Location Address**: The address of the location.
 - **Location Building**: The building this location belongs to.
-- **Location Type**: Indoor/Outdoor. For more information, click [here](/Indoor-vs.-Outdoor-Location). *Required*.
+- **Location Type**: Indoor/Outdoor. For more information, click [here](/Indoor vs. Outdoor Location). *Required*.
 - **City**: The city that the Location is located in. *Required*.
 - **Time Zone**: For determining the time of readings to be displayed in Graph & Data. *Required*.
 - **Outdoor Counterpart**: Outdoor Location to be compared with this Location.
