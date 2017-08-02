@@ -25,7 +25,7 @@ After you finish creating the location, you will be able to access the Location 
 
 -----
 
-To learn more about what a Location is, click [here](/What is a Location%3F).
+To learn more about what a Location is, click [here](/What is a Location).
 
 **OR**
 

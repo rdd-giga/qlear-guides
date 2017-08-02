@@ -49,4 +49,4 @@ To learn how to create a new Location, click [here](/Creating a Location).
 
 **OR**
 
-To learn more about Workspaces, click [here](/What is a Workspace%3F).
+To learn more about Workspaces, click [here](/What is a Workspace).

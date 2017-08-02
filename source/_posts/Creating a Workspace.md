@@ -27,7 +27,7 @@ After you finish create a workspace, you can find it at the left side of page.
 
 -----------
 
-To learn more about what a Workspace is, click [here](/What is a Workspace%3F).
+To learn more about what a Workspace is, click [here](/What is a Workspace).
 
 **OR**
 

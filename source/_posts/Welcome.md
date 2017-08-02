@@ -25,7 +25,7 @@ Next, you'll create a workspace.
 
 Workspaces are the first level of organization, where you and add and remove users, set permission and visibility levels, etc. Typically this is named after the company or institution.
 
-For more information on how to Create Workspaces, click [here](/Creating a Workspace). For more about Workspaces, please click [here](/What is a Workspace%3F).
+For more information on how to Create Workspaces, click [here](/Creating a Workspace). For more about Workspaces, please click [here](/What is a Workspace).
 
 ## 3. Add Monitors to your Workspace
 
