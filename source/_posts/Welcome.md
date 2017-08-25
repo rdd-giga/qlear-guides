@@ -49,4 +49,5 @@ For more information on the Dashboard, click [here](/Using the Dashboard).
 
 With that, you've completed the initial steps to getting started with QLEAR. Navigate around your workspace to see all the features in action! This is by no means the limits of configurability or features in QLEAR, so be sure to see the other guides in our knowledge base for more info on how to best use QLEAR for your needs.
 
-[](/img/1.png)
+![](/img/1.png)
+![](/img/2.png)
