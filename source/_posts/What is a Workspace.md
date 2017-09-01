@@ -29,5 +29,5 @@ To find out more about Workspace Overview, click [here](/Workspace Overview).
 
 **OR**
   
-To learn how to create a new Workspace, click [here](/Create a Workspace).
+To learn how to create a new Workspace, click [here](/Creating a Workspace).
 
