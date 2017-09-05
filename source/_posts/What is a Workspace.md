@@ -14,7 +14,7 @@ You can find your Workspace in the left side bar, highlighted by the red rectang
 GIGA is the workspace name and the dropdown includes:
 
 - [Locations](/What is a Location) - list of all Locations that belong to this Workspace
-- Hardware - list of all Hardware that belong to this Workspace
+- [Hardware](/What is a Hardware) - list of all Hardware that belong to this Workspace
 - [Overview](/Workspace Overview) - Information and User Permissions for this Workspace
 
 ------
@@ -29,5 +29,5 @@ To find out more about Workspace Overview, click [here](/Workspace Overview).
 
 **OR**
   
-To learn how to create a new Workspace, click [here](/Creating a Workspace).
+To learn how to create a new Workspace, click [here](/Create a Workspace).
 

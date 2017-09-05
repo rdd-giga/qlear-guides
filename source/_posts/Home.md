@@ -59,3 +59,4 @@ Claim (alternative, bind ?)
 Subscribe  
 attach  
 station  
+Primary indicator
