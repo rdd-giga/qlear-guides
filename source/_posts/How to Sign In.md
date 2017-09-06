@@ -26,9 +26,6 @@ And you're in!
 
 To learn about the Dashboard, go [here](/Using the Dashboard)
 
-**OR**
-
-If you have a monitor you need to add to your QLEAR Account, go [here](/Adding your First Monitor).  
 
 **OR**  
 

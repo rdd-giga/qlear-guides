@@ -24,4 +24,4 @@ Please refer to pricing [here]().
 
 ## How to get QLEAR Pro
 
-To get QLEAR Pro, please contact a QLEAR Administrator at support[at]qlear.build for more details.
+To get QLEAR Pro, please contact a QLEAR Administrator at support@qlear.build for more details.

@@ -18,17 +18,13 @@ Graph displays hourly data of the Location in a graph. The graph shows either th
 
 If the Workspace is a Pro workspace, a select date filter is available when selecting timeframe.
 
-![](https://cloud.githubusercontent.com/assets/26155270/23983321/4f62a4ae-0a4e-11e7-96cc-8a0a38a3f9de.png)  
-
-The following 3 screenshots include the 3 possible viewing options of the graph:
+The following 4 screenshots include the 3 possible viewing options of the graph:
 
 - Parameter: Select from available parameters.
 - Timeframe: Select the timeframe of the graph. *Exact date filter is available to Admin Only*.
 - Stations: Select the stations you want to compare, up to 5 monitors. *Admin Only*.
-
-![](https://cloud.githubusercontent.com/assets/26155270/23603686/118c0b76-0291-11e7-8e51-1e8dd73b0807.png) 
-![](https://cloud.githubusercontent.com/assets/26155270/23603732/49b7cc4c-0291-11e7-8344-7fbf722ebcb6.png) 
-![](https://cloud.githubusercontent.com/assets/26155270/23983990/0dfb2b18-0a52-11e7-9bda-a7efd737e574.png)  
+- Health Standards: Select the health standards you want to have.  
+[Add working hours for graph]
 
 ## 2. Table: Every Hour
 
