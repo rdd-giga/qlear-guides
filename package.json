@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "convert": "rm ./source/_posts/* ; node lib/convertToMarkdown.js"
+    "convert": "rm ./source/_posts/* ; node lib/convertToMarkdown.js",
+    "wc": "rm ./source/_posts/* ; nodemon lib/convertToMarkdown.js"
   },
   "hexo": {
     "version": "3.3.8"

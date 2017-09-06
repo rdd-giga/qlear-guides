@@ -1,7 +1,8 @@
 ---
 title: 'MSD'
 categories: 'Compatible Monitors'
-sortIndex: '2'
+subTitle: 'Tongdy'
+sortIndex: '3'
 ---
 ## Installation：  
 1、To separate the backboard and the detector, rotate the backboard clockwise according to the direction of the arrow (Pic.1&Pic.2).    

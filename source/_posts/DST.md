@@ -1,5 +1,5 @@
 ---
-title: 'DST OPC 2000'
+title: 'DST'
 categories: 'Compatible Monitors'
 sortIndex: '0'
 ---
