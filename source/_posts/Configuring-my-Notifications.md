@@ -31,6 +31,6 @@ You can now set up different notifications for the Location Average based on hou
 
 ## Notification Frequency  
 
-You would be able to change your Notification Frequency settings In My Setting Page. And you will receive an email about your monitors' status by the frequency you set. Please refer to ["Editing My Settings"](/Editing My Settings) page for details on how to change the Notification Frequency.
+You would be able to change your Notification Frequency settings In My Setting Page. And you will receive an email about your monitors' status by the frequency you set. Please refer to ["Editing My Settings"](/Editing-My-Settings) page for details on how to change the Notification Frequency.
 
 ![](https://cloud.githubusercontent.com/assets/26155270/23740177/6bd37b20-04dd-11e7-8209-df3068f1552c.jpg)

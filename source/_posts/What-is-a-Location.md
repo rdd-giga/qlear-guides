@@ -5,7 +5,7 @@ sortIndex: '0'
 ---
 Location is the visual and virtual representation of a space. Locations allow you to set up the space and include the relevant monitors for the space to organize and calculate the information to be displayed in data tables and graphs. Locations must be long to a Workspace. 
 
-Note that without Hardware or monitors attached to your Location, the Location will be an empty shell with no data. To learn how to add Hardware to the Location, click [here](/Adding Hardware to a Location).
+Note that without Hardware or monitors attached to your Location, the Location will be an empty shell with no data. To learn how to add Hardware to the Location, click [here](/Adding-Hardware-to-a-Location).
 
 ## Accessing your Locations
 
@@ -27,7 +27,7 @@ The left side shows all the latest information, with a Location Logo, Location N
 
 ![](https://cloud.githubusercontent.com/assets/3292593/25465924/f6a4d250-2b37-11e7-8d3f-92dde3e3448f.png)
 
-To access more features of the Location Display page, visit [Navigating Locations](/Navigating Location).  
+To access more features of the Location Display page, visit [Navigating Locations](/Navigating-Location).  
 
 ------
 
@@ -41,12 +41,12 @@ To request to make a Location public, please contact support[at]qlear.build.
 
 ------
 
-To find out more about how to navigate the Location, click [here](/Navigating Location).  
+To find out more about how to navigate the Location, click [here](/Navigating-Location).  
 
 **OR**
   
-To learn how to create a new Location, click [here](/Creating a Location).
+To learn how to create a new Location, click [here](/Creating-a-Location).
 
 **OR**
 
-To learn more about Workspaces, click [here](/What is a Workspace).
+To learn more about Workspaces, click [here](/What-is-a-Workspace).

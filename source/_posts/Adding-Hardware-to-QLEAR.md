@@ -5,7 +5,7 @@ sortIndex: '3'
 ---
 Adding Hardware to QLEAR is a simple process. Follow the steps below to add a hardware to your QLEAR Workspace. 
 
-Note that a Workspace must be created before adding hardware. The instructions for that can be found [here](/How to Sign In).
+Note that a Workspace must be created before adding hardware. The instructions for that can be found [here](/How-to-Sign-In).
 
 ## 1. Click on the Add Button
 

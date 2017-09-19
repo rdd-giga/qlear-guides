@@ -24,10 +24,10 @@ And you're in!
 
 ---
 
-To learn about the Dashboard, go [here](/Using the Dashboard)
+To learn about the Dashboard, go [here](/Using-the-Dashboard)
 
 
 **OR**  
 
-If you don't, let's browse [publicly available locations](/Using Public Locations) first.
+If you don't, let's browse [publicly available locations](/Using-Public-Locations) first.
 

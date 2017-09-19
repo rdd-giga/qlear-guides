@@ -13,9 +13,9 @@ Hardware must belong to a Workspace in QLEAR.
 
 QLEAR currently supports indoor air quality monitors, including:
 
-- [DST OPC-2000](/DST OPC 2000)
-- [Tongdy MSD](/Tongdy MSD)
-- [TSI Air Assure](/TSI Air Assure)
+- [DST OPC-2000](http://guide.qlear.build/opc2000v1/)
+- [Tongdy MSD](http://guide.qlear.build/MSD/)
+- TSI Air Assure
 
 ## Accessing your Hardware
 
@@ -37,8 +37,8 @@ The Hardware Display Page is the display page for the hardware. The left side sh
 
 -----
 
-To find out more about how to navigate the Hardware, click [here](/Navigating Hardware).  
+To find out more about how to navigate the Hardware, click [here](/Navigating-Hardware).  
 
 **OR**
   
-To learn how to adding a new Hardware to QLEAR, click [here](/Adding Hardware to QLEAR).
+To learn how to adding a new Hardware to QLEAR, click [here](/Adding-Hardware-to-QLEAR).

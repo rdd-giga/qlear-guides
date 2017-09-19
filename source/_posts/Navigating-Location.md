@@ -30,11 +30,11 @@ The parameter shown here are chosen in the Edit Location page.
 
 The function button includes access to all the deeper features of the Location. It can be found on the bottom right corner and includes the following:
 
-- **[Graph & Data](/Locations: Graph & Data)**. Access to different forms of data visualization.
-- **[Add to Dashboard](/Locations: Add to Dashboard)**. Add this Display page to your Dashboard as a thumbnail.
-- **[Show Monitors](/Locations: Show Monitors)**. See all the monitor thumbnails in this Location.
-- **[Notification](/Locations: Notifications)**. Set you user notifications for this Location.
-- **[Show History](/Locations: Show History)**. See who and what changes were made in this Location. *Admins only*.
-- **[Edit Location](/Locations: Edit Location)**. Edit this Location. *Admins only*.
+- **[Graph & Data](/Locations:-Graph-&-Data)**. Access to different forms of data visualization.
+- **[Add to Dashboard](/Locations:-Add-to-Dashboard)**. Add this Display page to your Dashboard as a thumbnail.
+- **[Show Monitors](/Locations:-Show-Monitors)**. See all the monitor thumbnails in this Location.
+- **[Notification](/Locations:-Notifications)**. Set you user notifications for this Location.
+- **[Show History](/Locations:-Show-History)**. See who and what changes were made in this Location. *Admins only*.
+- **[Edit Location](/Locations:-Edit-Location)**. Edit this Location. *Admins only*.
 
 ![](https://cloud.githubusercontent.com/assets/3292593/25477333/be10bbf6-2b6f-11e7-98df-9c91ff839671.png)

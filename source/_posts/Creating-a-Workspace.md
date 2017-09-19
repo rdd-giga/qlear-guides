@@ -27,8 +27,8 @@ After you finish create a workspace, you can find it at the left side of page.
 
 -----------
 
-To learn more about what a Workspace is, click [here](/What is a Workspace).
+To learn more about what a Workspace is, click [here](/What-is-a-Workspace).
 
 **OR**
 
-To learn how to add a hardware to this workspace, click [here](/Adding Hardware to QLEAR).
+To learn how to add a hardware to this workspace, click [here](/Adding-Hardware-to-QLEAR).

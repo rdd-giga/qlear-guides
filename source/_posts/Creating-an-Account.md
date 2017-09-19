@@ -29,4 +29,4 @@ The last step to fill in your user information and then click "Create User".
 
 ---
 
-When you're done Creating an Account, you can now [Sign In](/How to Sign In).
+When you're done Creating an Account, you can now [Sign In](/How-to-Sign-In).

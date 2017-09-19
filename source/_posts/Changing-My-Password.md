@@ -19,4 +19,4 @@ Fill in your Old Password and New Password and you're all set!
 
 ## Forgot your Password?
 
-If you forgot your password, please go [here](/Forgot Password).
+If you forgot your password, please go [here](/Forgot-Password).

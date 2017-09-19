@@ -49,7 +49,7 @@ Click on any city to see the available Public Locations in that city.
 
 ## Adding a Public Location to your Dashboard
 
-Please refer to ["Add to Dashboard"](/Add to Dashboard) to learn how to add location to your Dashboard.
+Please refer to ["Add to Dashboard"](/Add-to-Dashboard) to learn how to add location to your Dashboard.
 
 --------------
 
