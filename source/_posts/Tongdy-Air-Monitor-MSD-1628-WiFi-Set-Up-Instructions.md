@@ -1,7 +1,7 @@
 ---
 title: 'Tongdy Air Monitor MSD 1628 WiFi Set Up Instructions'
 categories: 'Compatible Monitors'
-subTitle: 'Tongdy MSD 1628 '
+subTitle: 'Tongdy MSD 1628 with WiFi'
 sortIndex: '5'
 ---
 ## Connecting Monitor MSD1628 to Wifi
@@ -53,4 +53,4 @@ To learn about how to connect a monitor to QLEAR, click [here](/Adding-Hardware-
 
 **OR**
 
-To learn more about the monitor, click [here](/Tongdy-MSD-1628-(with-WiFi)).  
+To learn more about the monitor, click [here](/Tongdy-MSD-1628-with-WiFi).  

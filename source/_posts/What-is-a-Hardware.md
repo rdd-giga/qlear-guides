@@ -13,9 +13,9 @@ Hardware must belong to a Workspace in QLEAR.
 
 QLEAR currently supports indoor air quality monitors, including:
 
-- [DST OPC-2000](http://guide.qlear.build/opc2000v1/)
-- [Tongdy MSD](http://guide.qlear.build/MSD/)
-- TSI Air Assure
+- [DST OPC-2000](/DST-OPC-2000)
+- [Tongdy MSD](/Tongdy-MSD)
+- [TSI Air Assure](/TSI-Air-Assure)
 
 ## Accessing your Hardware
 

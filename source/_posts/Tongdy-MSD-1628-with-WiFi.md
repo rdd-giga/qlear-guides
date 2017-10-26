@@ -1,5 +1,5 @@
 ---
-title: 'Tongdy MSD 1628 (with WiFi)'
+title: 'Tongdy MSD 1628 with WiFi'
 categories: 'Compatible Monitors'
 sortIndex: '4'
 ---

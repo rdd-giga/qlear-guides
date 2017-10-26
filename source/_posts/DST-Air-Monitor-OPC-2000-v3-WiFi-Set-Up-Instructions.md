@@ -1,7 +1,7 @@
 ---
 title: 'DST Air Monitor OPC 2000 v3 WiFi Set Up Instructions'
 categories: 'Compatible Monitors'
-subTitle: 'DST OPC 2000 '
+subTitle: 'DST OPC 2000 with WiFi'
 sortIndex: '3'
 ---
 ## Connecting the OPC-2000 v3 Monitor to Wi-Fi

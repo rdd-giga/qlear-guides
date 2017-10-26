@@ -1,7 +1,7 @@
 ---
 title: 'DST Air Monitor OPC 2000 v1 WiFi Instructions'
 categories: 'Compatible Monitors'
-subTitle: 'DST OPC 2000 '
+subTitle: 'DST OPC 2000 with WiFi'
 sortIndex: '1'
 ---
 ## Connecting Monitor OPC2000v1 to Wifi 
@@ -45,4 +45,4 @@ To learn about how to connect a monitor to QLEAR, click [here](/Adding-Hardware-
 
 **OR**
 
-To learn more about the monitor, click [here](/DST-OPC-2000-(with-WiFi)).  
+To learn more about the monitor, click [here](/DST-OPC-2000-with-WiFi).  

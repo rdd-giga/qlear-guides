@@ -1,5 +1,5 @@
 ---
-title: 'DST OPC 2000 (with WiFi)'
+title: 'DST OPC 2000 with WiFi'
 categories: 'Compatible Monitors'
 sortIndex: '0'
 ---
