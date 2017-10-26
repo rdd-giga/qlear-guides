@@ -1,8 +1,8 @@
 ---
 title: 'Locations: Notifications'
-categories: 'Locations'
+categories: 'Locations and Stations'
 subTitle: 'Navigating Location'
-sortIndex: '8'
+sortIndex: '9'
 ---
 Users who want to receive email notifications for a specific Location.
 

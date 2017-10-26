@@ -45,18 +45,3 @@ Finally you can add your preferred locations to your dashboard by navigating to 
 
 With that, you've completed the initial steps to get started with QLEAR. Navigate around your workspace to see all the features in action! This is by no means the limits of configurability or features in QLEAR, so be sure to see the other guides in our knowledge base for more info on how to best use QLEAR for your needs.
 
-# QLEAR Vocabulary
-
-Workspace :  
-Location :  
-Monitor  
-Indicator  
-Reading  
-Raw data  
-Floating action button  
-Notification  
-Claim (alternative, bind ?)  
-Subscribe  
-attach  
-station  
-Primary indicator

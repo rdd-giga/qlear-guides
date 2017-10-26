@@ -15,10 +15,10 @@ There are currently two available APIs:
 ## API Access URLs
 
 For testing purposes, please use QLEAR's testing API via the following URL:
-`https://api-testing.qlear.build/`
+`https://api-testing.qlear.io/`
 
 When officially pulling data, please use the following URL:
-`https://api.qlear.build/`
+`https://api.qlear.io/`
 
 ## 1. API Request for Monitors
 

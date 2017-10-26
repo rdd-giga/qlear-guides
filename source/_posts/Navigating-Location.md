@@ -1,7 +1,7 @@
 ---
 title: 'Navigating Location'
-categories: 'Locations'
-sortIndex: '4'
+categories: 'Locations and Stations'
+sortIndex: '5'
 ---
 There are two main parts to navigating the Location Display page: 
 
@@ -32,9 +32,8 @@ The function button includes access to all the deeper features of the Location. 
 
 - **[Graph & Data](/Locations:-Graph-&-Data)**. Access to different forms of data visualization.
 - **[Add to Dashboard](/Locations:-Add-to-Dashboard)**. Add this Display page to your Dashboard as a thumbnail.
-- **[Show Monitors](/Locations:-Show-Monitors)**. See all the monitor thumbnails in this Location.
+- **[Show Stations](/Locations:-Show-Monitors)**. See all the monitor thumbnails in this Location.
 - **[Notification](/Locations:-Notifications)**. Set you user notifications for this Location.
-- **[Show History](/Locations:-Show-History)**. See who and what changes were made in this Location. *Admins only*.
 - **[Edit Location](/Locations:-Edit-Location)**. Edit this Location. *Admins only*.
 
-![](https://cloud.githubusercontent.com/assets/3292593/25477333/be10bbf6-2b6f-11e7-98df-9c91ff839671.png)
+![](https://user-images.githubusercontent.com/26155270/30477842-3d4f7836-9a41-11e7-9142-5520748483d2.jpg)

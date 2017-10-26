@@ -1,8 +1,6 @@
 ---
 title: 'Hardware: Show History'
-categories: 'Hardware'
-subTitle: 'Navigating Hardware'
-sortIndex: '4'
+sortIndex: '-1'
 ---
 Hardware: Show History will show all the changes made to the Hardware in QLEAR to keep track of changes.
 

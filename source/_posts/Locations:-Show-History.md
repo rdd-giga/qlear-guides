@@ -1,8 +1,6 @@
 ---
 title: 'Locations: Show History'
-categories: 'Locations'
-subTitle: 'Navigating Location'
-sortIndex: '9'
+sortIndex: '-1'
 ---
 Locations: Show History will show all the changes made to the Location to keep track of changes.
 

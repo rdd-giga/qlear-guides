@@ -1,7 +1,7 @@
 ---
 title: 'Indoor vs. Outdoor Location'
-categories: 'Locations'
-sortIndex: '1'
+categories: 'Locations and Stations'
+sortIndex: '3'
 ---
 There are two types of Locations in QLEAR: Indoor and Outdoor. 
 

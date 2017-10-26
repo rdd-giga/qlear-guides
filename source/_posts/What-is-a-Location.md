@@ -1,11 +1,13 @@
 ---
 title: 'What is a Location?'
-categories: 'Locations'
+categories: 'Locations and Stations'
 sortIndex: '0'
 ---
-Location is the visual and virtual representation of a space. Locations allow you to set up the space and include the relevant monitors for the space to organize and calculate the information to be displayed in data tables and graphs. Locations must be long to a Workspace. 
+Location is the visual and virtual representation of a space. Locations allow you to set up the space and include the relevant monitors for the space to organize and calculate the information to be displayed in data tables and graphs. Locations must belong to a Workspace. 
 
-Note that without Hardware or monitors attached to your Location, the Location will be an empty shell with no data. To learn how to add Hardware to the Location, click [here](/Adding-Hardware-to-a-Location).
+A Location is comprised of a series of monitoring stations, or in short, [Stations](/What-is-a-Station).
+
+Note that without Hardware or monitors attached to Stations in your Location, the Location will be an empty shell with no data. To learn how to add Hardware to the Location, click [here](/Adding-Hardware-to-a-Location).
 
 ## Accessing your Locations
 

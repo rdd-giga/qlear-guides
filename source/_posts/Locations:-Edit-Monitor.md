@@ -1,8 +1,6 @@
 ---
 title: 'Locations: Edit Monitor'
-categories: 'Locations'
-subTitle: 'Navigating Location'
-sortIndex: '11'
+sortIndex: '-1'
 ---
 Locations: Edit Monitor allows the user to view the basic information of a Hardware in a Location. The menu is accessible in the bottom right corner button while in Location Display.
 

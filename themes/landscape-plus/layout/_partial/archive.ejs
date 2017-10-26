@@ -19,7 +19,7 @@
     </section>
   </div>
   <% var posts = home(page); %>
-  <% var sort = ['Getting Started', 'User Settings', 'Workspace', 'Locations', 'Hardware', 'Data Access and FAQ', 'Compatible Monitors', 'FAQ'];%>
+  <% var sort = ['Getting Started', 'User Settings', 'Workspace', 'Locations and Stations', 'Hardware', 'Data Access and FAQ', 'Compatible Monitors', 'FAQ'];%>
   <% var keys = Object.keys(posts).sort(function(a, b) { return sort.indexOf(a) - sort.indexOf(b)}); %>
   <div id="home">
     <% keys.forEach(function(key) { %>

@@ -1,6 +1,6 @@
 ---
 title: 'Creating a Location'
-categories: 'Locations'
+categories: 'Locations and Stations'
 sortIndex: '2'
 ---
 To create a Location, follow the steps below:

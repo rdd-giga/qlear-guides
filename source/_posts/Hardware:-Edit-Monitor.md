@@ -2,7 +2,7 @@
 title: 'Hardware: Edit Monitor'
 categories: 'Hardware'
 subTitle: 'Navigating Hardware'
-sortIndex: '5'
+sortIndex: '4'
 ---
 The Edit Monitor includes two sections:
 

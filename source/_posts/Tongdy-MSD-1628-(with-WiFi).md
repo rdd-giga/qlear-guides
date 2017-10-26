@@ -1,7 +1,7 @@
 ---
-title: 'Tongdy'
+title: 'Tongdy MSD 1628 (with WiFi)'
 categories: 'Compatible Monitors'
-sortIndex: '2'
+sortIndex: '4'
 ---
 ![tongdy_control_technology_co_ltd](https://user-images.githubusercontent.com/3292593/29345714-197bd6d8-8273-11e7-8458-b5ca72160cef.jpg)
 
@@ -14,7 +14,7 @@ The Tongdy MSD is a certified RESET Grade B monitor.
 
 
 
-## Specifications
+## Specs
 
 | Key | Spec |
 | --- | --- |
@@ -26,14 +26,10 @@ The Tongdy MSD is a certified RESET Grade B monitor.
 | Temp Unit | Centigrade |
 | Humidity | % Relative Humidity |
 
-## Setup
+------
 
+To learn how to connect this monitor to WiFi, click [here](/Tongdy-Air-Monitor-MSD-1628-WiFi-Set-Up-Instructions).  
 
-### Connecting it to QLEAR
+**OR**
 
-
-
-### Using it in QLEAR
-
-
-
+To learn about how to connect a monitor to QLEAR, click [here](/Adding-Hardware-to-QLEAR).

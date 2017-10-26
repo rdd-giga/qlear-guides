@@ -1,10 +1,8 @@
 ---
-title: 'Locations: Add to Dashboard'
-categories: 'Locations and Stations'
-subTitle: 'Navigating Location'
-sortIndex: '7'
+title: 'Stations: Add to Dashboard'
+sortIndex: '-1'
 ---
-For convenience of access, you can add a Location to your Dashboard in Location Display. The following section includes:
+Except you can add a Location to your Dashboard in Location Display, you also can add a station to your Dashboard. The following section includes:
 
 - **1. Adding to Dashboard**
 - **2. Choosing a Specific Station to Add to the Dashboard**
