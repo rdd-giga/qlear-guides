@@ -1,0 +1,28 @@
+language: node_js
+node_js:
+  - "8"
+
+branches:
+  only:
+  - source
+
+before_install:
+- npm install -g hexo
+- npm install -g hexo-cli
+
+before_script:
+# ------------------------------------------------
+# 设置github账户信息 注意修改成自己的信息
+# ------------------------------------------------
+- git config --global user.name "mosaice"
+- git config --global user.email mosaice@qq.com
+- sed -i'' "s~git@github.com:rdd-giga/qlear-guides.git~https://${GH_TOKEN}@github.com/rdd-giga/qlear-guides.git~" _config.yml
+script:
+- hexo clean
+- hexo generate
+# 执行的成功后执行 
+after_success:
+- hexo deploy
+
+# notifications:
+#     slack: qlear:dP0jpIXMbJ2lxC40Tk5IARBO
