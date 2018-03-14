@@ -1,0 +1,341 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>Indicator Levels | QLEAR Guide</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="PM2.5QLEAR combines the two different AQI calculation methods from the US and China, and computes PM2.5 concentration levels. US EPA’s AQI calculation methods reference from: https://cfpub.epa.gov/air">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Indicator Levels">
+<meta property="og:url" content="/Indicator-Levels/index.html">
+<meta property="og:site_name" content="QLEAR Guide">
+<meta property="og:description" content="PM2.5QLEAR combines the two different AQI calculation methods from the US and China, and computes PM2.5 concentration levels. US EPA’s AQI calculation methods reference from: https://cfpub.epa.gov/air">
+<meta property="og:updated_time" content="2018-03-14T09:40:56.206Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Indicator Levels">
+<meta name="twitter:description" content="PM2.5QLEAR combines the two different AQI calculation methods from the US and China, and computes PM2.5 concentration levels. US EPA’s AQI calculation methods reference from: https://cfpub.epa.gov/air">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="./css/style.css?v=1">
+  <!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script><![endif]-->
+  
+</head>
+<body>
+<div id="container">
+  <div id="wrap">
+    <header id="header">
+  <div class="header-logo-wrapper">
+    <a href="/">
+      <img src="./img/qlear-logo-white.png">
+    </a>
+  </div>
+</header>
+    <div class="outer">
+      <section id="main">
+      <article id="post-Indicator-Levels" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    
+  <div class="article-category">
+    <a class="article-category-link" href="./categories/Data-Access-and-FAQ/">Data Access and FAQ</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      Indicator Levels
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h2 id="PM2-5"><a href="#PM2-5" class="headerlink" title="PM2.5"></a>PM2.5</h2><p>QLEAR combines the two different AQI calculation methods from the US and China, and computes PM2.5 concentration levels.</p>
+<p>US EPA’s AQI calculation methods reference from: <a href="https://cfpub.epa.gov/airnow/index.cfm?action=airnow.calculator" target="_blank" rel="noopener">https://cfpub.epa.gov/airnow/index.cfm?action=airnow.calculator</a><br>China AQI calculation methods reference from: <a href="http://210.72.1.216:8080/gzaqi/Document/aqijsgd.pdf" target="_blank" rel="noopener">http://210.72.1.216:8080/gzaqi/Document/aqijsgd.pdf</a>  </p>
+<table>
+<thead>
+<tr>
+<th>Status</th>
+<th>Value (ug/m3)</th>
+<th>AQI US in (ug/m3)</th>
+<th>AQI CN in (ug/m3)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Good</td>
+<td>&lt;=35</td>
+<td>0-12</td>
+<td>0-35</td>
+</tr>
+<tr>
+<td>Moderate</td>
+<td>&lt;=75</td>
+<td>12.1-35.4</td>
+<td>36-75</td>
+</tr>
+<tr>
+<td>Sensitive</td>
+<td>&lt;=100</td>
+<td>35.5-55.4</td>
+<td>76-115</td>
+</tr>
+<tr>
+<td>Unhealthy</td>
+<td>&lt;=120</td>
+<td>55.5-150.4</td>
+<td>116-150</td>
+</tr>
+<tr>
+<td>Very Unhealthy</td>
+<td>&lt;=200</td>
+<td>150.5-250.4</td>
+<td>151-250</td>
+</tr>
+<tr>
+<td>Hazardous</td>
+<td>&gt;200</td>
+<td>&gt;250.5</td>
+<td>&gt;250</td>
+</tr>
+</tbody>
+</table>
+<h2 id="CO2"><a href="#CO2" class="headerlink" title="CO2"></a>CO2</h2><p>RESET certification <a href="https://www.reset.build/" target="_blank" rel="noopener">https://www.reset.build/</a> is a real-time green building verification system released by GIGA <a href="http://www.giga.build/" target="_blank" rel="noopener">http://www.giga.build/</a> in 2009. The system sets a CO2 level less than 600ppm as best, and a level less than 1000ppm as satisfied. To help the users know their CO2 levels more intuitively, instead of using simple notations like satisfied and unsatisfied, RESET classifies the CO2 levels as the following:   </p>
+<table>
+<thead>
+<tr>
+<th>Status</th>
+<th>Value (ppm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Excellent</td>
+<td>&lt;=600</td>
+</tr>
+<tr>
+<td>Good</td>
+<td>&lt;=1000</td>
+</tr>
+<tr>
+<td>Moderate</td>
+<td>&lt;=1500</td>
+</tr>
+<tr>
+<td>Sensitive</td>
+<td>&lt;=2500</td>
+</tr>
+<tr>
+<td>Impaired</td>
+<td>&lt;=5000</td>
+</tr>
+<tr>
+<td>Unhealthy</td>
+<td>&gt;5000</td>
+</tr>
+</tbody>
+</table>
+<h2 id="TVOC"><a href="#TVOC" class="headerlink" title="TVOC"></a>TVOC</h2><p>LEED certification <a href="http://www.usgbc.org/leed" target="_blank" rel="noopener">http://www.usgbc.org/leed</a> is a green building judgement tool released by U.S. Green Building Council (USGBC) <a href="http://www.usgbc.org/leed" target="_blank" rel="noopener">http://www.usgbc.org/leed</a> in 2003.The system sets a TVOC level more than 0.5mg/m3 as unsatisfied. To help the users know their TVOC levels more intuitively, instead of using simple notations like satisfied and unsatisfied, QLEAR classifies the TVOC levels according to this certification as the following:  </p>
+<table>
+<thead>
+<tr>
+<th>Status</th>
+<th>Value (mg/m3)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Good</td>
+<td>&lt;=0.45</td>
+</tr>
+<tr>
+<td>Moderate</td>
+<td>&lt;=0.55</td>
+</tr>
+<tr>
+<td>Unhealthy</td>
+<td>&gt;0.55</td>
+</tr>
+</tbody>
+</table>
+
+      
+    </div>
+  </div>
+</article>
+      </section>
+      
+    </div>
+    <footer id="footer">
+  <div class="content-Wrapper">
+    <div class="section-title">QLEAR</div>
+    <ul class="link-list">
+      <li class="link-item">
+        <a href='https://qlear.build/web/about'>About</a>
+      </li>
+      <li class="link-item">
+        <a href='https://qlear.build/web/termsService'>Terms & Services</a>
+      </li>
+      <li class="link-item">
+        <a href='https://qlear.build/web/changelog'>Change Log</a>
+      </li>
+      <li class="link-item">
+        <a href='/'>Guide</a>
+      </li>
+    </ul>
+  </div>
+  <div class="content-Wrapper">
+    <div class="copyright">
+      QLEAR &copy; 2018. All Rights Reserved.
+      <a class="beian" href="http://www.beian.gov.cn" target="_blank">沪ICP备11038237号-4</a>
+    </div>
+  </div>
+</footer>
+
+
+
+
+  </div>
+  <!-- totop start -->
+<div id="totop">
+<a title="totop"><img src="./img/scrollup.png"/></a>
+</div>
+
+<!-- totop end -->
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+
+
+
+<script src="./js/script.js"></script>
+
+<script>
+    var searchFunc = function(path, search_id, content_id) {
+        'use strict';
+        $.ajax({
+            url: path,
+            dataType: 'xml',
+            success: function( xmlResponse ) {
+                // get the contents from search data
+                var datas = $( 'entry', xmlResponse ).map(function() {
+                    return {
+                        title: $( 'title', this ).text(),
+                        content: $('content',this).text(),
+                        categories: $('categories',this).text().trim(),
+                        url: $( 'url' , this).text()
+                    };
+                }).get();
+                var $input = document.getElementById(search_id);
+                var $resultContent = document.getElementById(content_id);
+                $input.addEventListener('input', function() {
+                    var str='<ul class=\"search-result-list\">';
+                    $resultContent.style.display = 'block';
+                    var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
+                    $resultContent.innerHTML = '';
+                    if (this.value.trim().length <= 0) {
+                        $resultContent.style.display = 'none';                        
+                        return;
+                    }
+                    // perform local searching
+                    datas.forEach(function(data) {
+                        var isMatch = true;
+                        var content_index = [];
+                        var data_title = data.title.trim().toLowerCase();
+                        var data_content = data.content.trim().replace(/<[^>]+>/g,'').toLowerCase();
+                        var data_catgories = data.categories.trim().replace(/<[^>]+>/g,'');
+                        var data_url = data.url;
+                        var index_title = -1;
+                        var index_content = -1;
+                        var first_occur = -1;
+                        if (!data_catgories) return;
+                        // only match artiles with not empty titles and contents
+                        if(data_title !== '' || data_content !== '') {
+                            keywords.forEach(function(keyword, i) {
+                                index_title = data_title.indexOf(keyword);
+                                index_content = data_content.indexOf(keyword);
+                                if( index_title < 0 && index_content < 0 ) {
+                                    isMatch = false;
+                                } else {
+                                    if (index_content < 0) {
+                                        index_content = 0;
+                                    }
+                                    if (i === 0) {
+                                        first_occur = index_content;
+                                    }
+                                }
+                            });
+                        }
+                        // show search results
+                        if (isMatch) {
+                            str += '<li><a href="'+ data_url +'" class="search-result-title" target="_blank">'+ data_title;
+                            str +='<p class="search-result"> Catagory: ' + data_catgories + '</p>' +'</a>';
+                            // var content = data.content.trim().replace(/<[^>]+>/g, '');
+                            // if (first_occur >= 0) {
+                            //     // cut out characters
+                            //     var start = first_occur;
+                            //     var end = first_occur + 10;
+                            //     if (start < 0) {
+                            //         start = 0;
+                            //     }
+                            //     if (start === 0) {
+                            //         end = 10;
+                            //     }
+                            //     if (end > content.length) {
+                            //         end = content.length;
+                            //     }
+                            //     var match_content = content.substr(start, end);
+                            //     // highlight all keywords
+                            //     // keywords.forEach(function(keyword) {
+                            //     //     var regS = new RegExp(keyword, 'gi');
+                            //     //     match_content = match_content.replace(regS, '<em class="search-keyword">'+keyword+'</em>');
+                            //     // })
+                            //     // str += '<p class="search-result">' + match_content + '...</p>' +'</a>';
+                            // }
+                        }
+                    });
+                    $resultContent.innerHTML = str;
+                });
+
+                $input.addEventListener('blur', function(e) {
+                    setTimeout(function() {
+                        $resultContent.style.display = 'none';
+                    }, 100);
+                });
+
+                $input.addEventListener('focus', function(e) {
+                    if ($resultContent.style.display === 'none' && $resultContent.querySelectorAll('li').length) {
+                        $resultContent.style.display = 'block';                        
+                    }
+                });
+            }
+        });
+    }
+
+
+    var inputArea = document.querySelector('#search');
+    var getSearchFile = function() {
+        var path = './search.xml';
+        searchFunc(path, 'search', 'local-search-result');
+    }
+
+    if(inputArea) {
+        inputArea.onfocus = function() {
+            getSearchFile();
+        }
+    }
+</script>
+
+
+</div>
+</body>
+</html>

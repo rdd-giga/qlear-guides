@@ -1,0 +1,307 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>Public Data API | QLEAR Guide</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="For data access, we also have a basic public facing data API. This is only available for Pro Workspaces. Note that Monitors are Hardware. There are currently two available APIs:  API Request for Monit">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Public Data API">
+<meta property="og:url" content="/Public-Data-API/index.html">
+<meta property="og:site_name" content="QLEAR Guide">
+<meta property="og:description" content="For data access, we also have a basic public facing data API. This is only available for Pro Workspaces. Note that Monitors are Hardware. There are currently two available APIs:  API Request for Monit">
+<meta property="og:updated_time" content="2018-03-14T09:40:56.206Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Public Data API">
+<meta name="twitter:description" content="For data access, we also have a basic public facing data API. This is only available for Pro Workspaces. Note that Monitors are Hardware. There are currently two available APIs:  API Request for Monit">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  <link rel="stylesheet" href="./css/style.css?v=1">
+  <!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script><![endif]-->
+  
+</head>
+<body>
+<div id="container">
+  <div id="wrap">
+    <header id="header">
+  <div class="header-logo-wrapper">
+    <a href="/">
+      <img src="./img/qlear-logo-white.png">
+    </a>
+  </div>
+</header>
+    <div class="outer">
+      <section id="main">
+      <article id="post-Public-Data-API" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    
+  <div class="article-category">
+    <a class="article-category-link" href="./categories/Data-Access-and-FAQ/">Data Access and FAQ</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      Public Data API
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>For data access, we also have a basic public facing data API. This is only available for Pro Workspaces.</p>
+<p>Note that Monitors are Hardware.</p>
+<p>There are currently two available APIs:</p>
+<ol>
+<li>API Request for Monitors</li>
+<li>API Request for Latest Monitor Data</li>
+</ol>
+<h2 id="API-Access-URLs"><a href="#API-Access-URLs" class="headerlink" title="API Access URLs"></a>API Access URLs</h2><p>For testing purposes, please use QLEAR’s testing API via the following URL:<br><code>https://api-testing.qlear.io/</code></p>
+<p>When officially pulling data, please use the following URL:<br><code>https://api.qlear.io/</code></p>
+<h2 id="1-API-Request-for-Monitors"><a href="#1-API-Request-for-Monitors" class="headerlink" title="1. API Request for Monitors"></a>1. API Request for Monitors</h2><h4 id="Interface"><a href="#Interface" class="headerlink" title="Interface"></a>Interface</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">GET /v1/monitors</span><br></pre></td></tr></table></figure>
+<h4 id="API-Parameters"><a href="#API-Parameters" class="headerlink" title="API Parameters"></a>API Parameters</h4><table>
+<thead>
+<tr>
+<th>Parameters</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>token</td>
+<td>Access Token from workspace in QLEAR.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h4><blockquote>
+<p>GET /v1/monitors?token=6711d819-61bb-4342-9ae3-17c8a477629b</p>
+</blockquote>
+<h4 id="Returns"><a href="#Returns" class="headerlink" title="Returns"></a>Returns</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">[</span><br><span class="line">  &#123;</span><br><span class="line">    identifier: &quot;ACCF232C468E&quot;,</span><br><span class="line">    label: &quot;Indoor&quot;,</span><br><span class="line">    last_received_at: &quot;2015-05-26 15:04:48 +0800&quot;,</span><br><span class="line">    status: 1</span><br><span class="line">  &#125;,</span><br><span class="line">  &#123;</span><br><span class="line">    identifier: &quot;30219&quot;,</span><br><span class="line">    label: &quot;E410&quot;,</span><br><span class="line">    last_received_at: &quot;2015-05-26 15:04:48 +0800&quot;,</span><br><span class="line">    status: 1</span><br><span class="line">  &#125;,</span><br><span class="line">  &#123;</span><br><span class="line">    identifier: &quot;us-embassy-hyderabad&quot;,</span><br><span class="line">    label: &quot;US Embassy Hyderabad&quot;,</span><br><span class="line">    last_received_at: &quot;2015-05-26 15:04:48 +0800&quot;,</span><br><span class="line">    status: 1</span><br><span class="line">  &#125;</span><br><span class="line">]</span><br></pre></td></tr></table></figure>
+<ul>
+<li>identifier - Default ID of the Monitor</li>
+<li>label - A label for the monitor that you can set on the Dashboard</li>
+<li>last_received_at - Last received data from the monitor</li>
+<li>status - 1 means it’s working, 0 means it is not working</li>
+</ul>
+<h2 id="2-API-Request-for-Latest-Monitor-Data"><a href="#2-API-Request-for-Latest-Monitor-Data" class="headerlink" title="2. API Request for Latest Monitor Data"></a>2. API Request for Latest Monitor Data</h2><h4 id="Interface-1"><a href="#Interface-1" class="headerlink" title="Interface"></a>Interface</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">GET /v1/monitors/latest</span><br></pre></td></tr></table></figure>
+<h4 id="API-Parameters-1"><a href="#API-Parameters-1" class="headerlink" title="API Parameters"></a>API Parameters</h4><table>
+<thead>
+<tr>
+<th>Parameters</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>token</td>
+<td>Access Token from workspace in QLEAR</td>
+</tr>
+<tr>
+<td>identifier</td>
+<td>Use the identifier from v1/monitor API Request</td>
+</tr>
+</tbody>
+</table>
+<h4 id="Example-1"><a href="#Example-1" class="headerlink" title="Example"></a>Example</h4><blockquote>
+<p>GET /v1/monitors/latest?token=6711d819-61bb-4342-9ae3-17c8a477629b&amp;identifier=1116210504</p>
+</blockquote>
+<h4 id="Returns-1"><a href="#Returns-1" class="headerlink" title="Returns"></a>Returns</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">[</span><br><span class="line">  &#123;</span><br><span class="line">    &quot;temperature&quot;:26.7,</span><br><span class="line">    &quot;humidity&quot;:41.0,</span><br><span class="line">    &quot;hcho&quot;:0.0,</span><br><span class="line">    &quot;co&quot;:1985.0,</span><br><span class="line">    &quot;co2&quot;:486.0,</span><br><span class="line">    &quot;tvoc&quot;:0.730667,</span><br><span class="line">    &quot;pm2p5&quot;:7.0,</span><br><span class="line">    &quot;pm10&quot;:0.0,</span><br><span class="line">    &quot;reading_time&quot;:&quot;2017-05-02 17:55:40 +0800&quot;,</span><br><span class="line">    &quot;created_at&quot;:&quot;2017-05-02 17:55:40 +0800&quot;</span><br><span class="line">  &#125;</span><br><span class="line">]</span><br></pre></td></tr></table></figure>
+<ul>
+<li>temperature</li>
+<li>humidity</li>
+<li>hcho</li>
+<li>co</li>
+<li>co2</li>
+<li>tvoc</li>
+<li>pm2p5</li>
+<li>pm10</li>
+<li>reading_time</li>
+<li>created_at</li>
+</ul>
+<hr>
+<h2 id="Notes"><a href="#Notes" class="headerlink" title="Notes"></a>Notes</h2><ul>
+<li>Everything is expected to be in utf-8</li>
+<li>Date structure: 2015-05-26 14:36:32 +0800</li>
+</ul>
+
+      
+    </div>
+  </div>
+</article>
+      </section>
+      
+    </div>
+    <footer id="footer">
+  <div class="content-Wrapper">
+    <div class="section-title">QLEAR</div>
+    <ul class="link-list">
+      <li class="link-item">
+        <a href='https://qlear.build/web/about'>About</a>
+      </li>
+      <li class="link-item">
+        <a href='https://qlear.build/web/termsService'>Terms & Services</a>
+      </li>
+      <li class="link-item">
+        <a href='https://qlear.build/web/changelog'>Change Log</a>
+      </li>
+      <li class="link-item">
+        <a href='/'>Guide</a>
+      </li>
+    </ul>
+  </div>
+  <div class="content-Wrapper">
+    <div class="copyright">
+      QLEAR &copy; 2018. All Rights Reserved.
+      <a class="beian" href="http://www.beian.gov.cn" target="_blank">沪ICP备11038237号-4</a>
+    </div>
+  </div>
+</footer>
+
+
+
+
+  </div>
+  <!-- totop start -->
+<div id="totop">
+<a title="totop"><img src="./img/scrollup.png"/></a>
+</div>
+
+<!-- totop end -->
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+
+
+
+<script src="./js/script.js"></script>
+
+<script>
+    var searchFunc = function(path, search_id, content_id) {
+        'use strict';
+        $.ajax({
+            url: path,
+            dataType: 'xml',
+            success: function( xmlResponse ) {
+                // get the contents from search data
+                var datas = $( 'entry', xmlResponse ).map(function() {
+                    return {
+                        title: $( 'title', this ).text(),
+                        content: $('content',this).text(),
+                        categories: $('categories',this).text().trim(),
+                        url: $( 'url' , this).text()
+                    };
+                }).get();
+                var $input = document.getElementById(search_id);
+                var $resultContent = document.getElementById(content_id);
+                $input.addEventListener('input', function() {
+                    var str='<ul class=\"search-result-list\">';
+                    $resultContent.style.display = 'block';
+                    var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
+                    $resultContent.innerHTML = '';
+                    if (this.value.trim().length <= 0) {
+                        $resultContent.style.display = 'none';                        
+                        return;
+                    }
+                    // perform local searching
+                    datas.forEach(function(data) {
+                        var isMatch = true;
+                        var content_index = [];
+                        var data_title = data.title.trim().toLowerCase();
+                        var data_content = data.content.trim().replace(/<[^>]+>/g,'').toLowerCase();
+                        var data_catgories = data.categories.trim().replace(/<[^>]+>/g,'');
+                        var data_url = data.url;
+                        var index_title = -1;
+                        var index_content = -1;
+                        var first_occur = -1;
+                        if (!data_catgories) return;
+                        // only match artiles with not empty titles and contents
+                        if(data_title !== '' || data_content !== '') {
+                            keywords.forEach(function(keyword, i) {
+                                index_title = data_title.indexOf(keyword);
+                                index_content = data_content.indexOf(keyword);
+                                if( index_title < 0 && index_content < 0 ) {
+                                    isMatch = false;
+                                } else {
+                                    if (index_content < 0) {
+                                        index_content = 0;
+                                    }
+                                    if (i === 0) {
+                                        first_occur = index_content;
+                                    }
+                                }
+                            });
+                        }
+                        // show search results
+                        if (isMatch) {
+                            str += '<li><a href="'+ data_url +'" class="search-result-title" target="_blank">'+ data_title;
+                            str +='<p class="search-result"> Catagory: ' + data_catgories + '</p>' +'</a>';
+                            // var content = data.content.trim().replace(/<[^>]+>/g, '');
+                            // if (first_occur >= 0) {
+                            //     // cut out characters
+                            //     var start = first_occur;
+                            //     var end = first_occur + 10;
+                            //     if (start < 0) {
+                            //         start = 0;
+                            //     }
+                            //     if (start === 0) {
+                            //         end = 10;
+                            //     }
+                            //     if (end > content.length) {
+                            //         end = content.length;
+                            //     }
+                            //     var match_content = content.substr(start, end);
+                            //     // highlight all keywords
+                            //     // keywords.forEach(function(keyword) {
+                            //     //     var regS = new RegExp(keyword, 'gi');
+                            //     //     match_content = match_content.replace(regS, '<em class="search-keyword">'+keyword+'</em>');
+                            //     // })
+                            //     // str += '<p class="search-result">' + match_content + '...</p>' +'</a>';
+                            // }
+                        }
+                    });
+                    $resultContent.innerHTML = str;
+                });
+
+                $input.addEventListener('blur', function(e) {
+                    setTimeout(function() {
+                        $resultContent.style.display = 'none';
+                    }, 100);
+                });
+
+                $input.addEventListener('focus', function(e) {
+                    if ($resultContent.style.display === 'none' && $resultContent.querySelectorAll('li').length) {
+                        $resultContent.style.display = 'block';                        
+                    }
+                });
+            }
+        });
+    }
+
+
+    var inputArea = document.querySelector('#search');
+    var getSearchFile = function() {
+        var path = './search.xml';
+        searchFunc(path, 'search', 'local-search-result');
+    }
+
+    if(inputArea) {
+        inputArea.onfocus = function() {
+            getSearchFile();
+        }
+    }
+</script>
+
+
+</div>
+</body>
+</html>
