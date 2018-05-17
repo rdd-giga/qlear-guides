@@ -48,13 +48,13 @@
     <article class="archive-article archive-type-post">
   <div class="archive-article-inner">
     <header class="archive-article-header">
-      <a href="Hardware:-Edit-Monitor/" class="archive-article-date">
+      <a href="Hardware:-Graph-&-Data/" class="archive-article-date">
   <time datetime="2018-03-14T09:40:56.206Z" itemprop="datePublished">Mar 14</time>
 </a>
       
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="Hardware:-Edit-Monitor/">Hardware: Edit Monitor</a>
+      <a class="archive-article-title" href="Hardware:-Graph-&-Data/">Hardware: Graph &amp; Data</a>
     </h1>
   
 
@@ -67,13 +67,13 @@
     <article class="archive-article archive-type-post">
   <div class="archive-article-inner">
     <header class="archive-article-header">
-      <a href="Hardware:-Graph-&-Data/" class="archive-article-date">
+      <a href="Hardware:-Edit-Monitor/" class="archive-article-date">
   <time datetime="2018-03-14T09:40:56.206Z" itemprop="datePublished">Mar 14</time>
 </a>
       
   
     <h1 itemprop="name">
-      <a class="archive-article-title" href="Hardware:-Graph-&-Data/">Hardware: Graph &amp; Data</a>
+      <a class="archive-article-title" href="Hardware:-Edit-Monitor/">Hardware: Edit Monitor</a>
     </h1>
   
 
@@ -159,7 +159,7 @@
   </div>
   <!-- totop start -->
 <div id="totop">
-<a title="totop"><img src="./img/scrollup.png"/></a>
+<a title="返回頂部"><img src="./img/scrollup.png"/></a>
 </div>
 
 <!-- totop end -->
@@ -184,7 +184,7 @@
                         title: $( 'title', this ).text(),
                         content: $('content',this).text(),
                         categories: $('categories',this).text().trim(),
-                        url: $( 'url' , this).text()
+                        url: $( 'link' , this).attr('href')
                     };
                 }).get();
                 var $input = document.getElementById(search_id);
